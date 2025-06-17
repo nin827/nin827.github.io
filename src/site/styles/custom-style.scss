@@ -3,7 +3,7 @@ body {
 	.noto-sans {
 		font-family: "Noto Sans", sans-serif;
 		font-optical-sizing: auto;
-		font-weight: <weight>;
+		font-weight: 100;
 		font-style: normal;
 		font-variation-settings:
 			"wdth" 100;
@@ -12,6 +12,9 @@ body {
 	// Change font family
 	--font-default: "Noto Sans";
 	--font-text: "Noto Sans";
+	--font-text-theme: "Noto Sans";
+	--font-interface: "Noto Sans";
+	--font-interface-theme: "Noto Sans";
 	
 	// Paragraph font setup
 	p {
