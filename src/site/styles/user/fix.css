@@ -1,7 +1,7 @@
 body {
 	/* Remove general padding from embeds */
 	.markdown-embed {
-		padding: 0px 0px 0px 0px;
+		padding: 0px;
 		border-left: var(--embed-border-right);
 	}
 
@@ -14,7 +14,6 @@ body {
 	
 	/* Remove embed horizontal paddings */
 	div.transclusion.internal-embed.is-loaded {
-		padding-left: 0px;
-		padding-right: 0px;
+		padding: 0px;
 	}
 }
