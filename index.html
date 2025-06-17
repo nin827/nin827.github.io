@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>DIRECT</title>
+<title>INDEX</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -95,6 +95,23 @@ CTRL + K
 <span class="foldername">RESOURCE</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as('RESOURCE/MEMBER')}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">MEMBER</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/resource/member/mb-001/">MB001 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/resource/member/mb-002/">MB002 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div class="folder inner-folder" x-data="{isOpen: $persist(false).as('RESOURCE/TEMPLATE')}" @click.stop="isOpen=!isOpen">
 <div class="foldername-wrapper align-icon">
 <i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
@@ -157,7 +174,7 @@ CTRL + K
 <span class="foldername">SPECIAL</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">DIRECT </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">INDEX </a>
 </div>
 </div>
 </div>
@@ -185,7 +202,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-06-17T01:49:43.349Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-06-17T01:49:43.349Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-06-17T01:49:43.349Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-06-17T05:33:53.481Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-06-17T05:33:53.481Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-06-17T05:33:53.481Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1></h1>
@@ -197,518 +214,47 @@ CTRL + K
 </div>
 </div>
 </header>
+<h1 id="index" tabindex="-1">Index</h1>
 <blockquote>
 <p><strong>Link to</strong>: <a class="internal-link is-unresolved" href="/404" target="">Homepage</a></p>
 </blockquote>
 <h1 id="overview" tabindex="-1">Overview</h1>
 <p>This project, <strong>New Siam 22th Century</strong>, or <strong>NS22</strong>, is a novel project involving Bangkok, Thailand, in a speculative 22th century setting involving mutual coexistence between humans and androids as the central theme. This also covers the idea of sapient AIs interweaving into human-driven society. Assume that the narrative starts on 2120s.</p>
-<p><em>Read more at <a class="internal-link is-unresolved" href="/404" target="">nin827's Project NS22 Remarks</a> for more details.</em></p>
-<h1 id="book" tabindex="-1">Book</h1>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Iron Soldier</a> (BK001) [363]<br>◆ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec risus sit amet erat mattis bibendum non a nibh. Duis efficitur neque hendrerit justo faucibus, non egestas leo eleifend. Curabitur sit amet lacinia massa. In dictum eros ut ornare sagittis. Pellentesque quis consectetur nibh. Maecenas accumsan felis ipsum, vulputate posuere velit tincidunt vel.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Bittersweet Business</a> (BK002) [363]<br>◆ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec risus sit amet erat mattis bibendum non a nibh. Duis efficitur neque hendrerit justo faucibus, non egestas leo eleifend. Curabitur sit amet lacinia massa. In dictum eros ut ornare sagittis. Pellentesque quis consectetur nibh. Maecenas accumsan felis ipsum, vulputate posuere velit tincidunt vel.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Steelguard</a> (BK003) [487]<br>◆ There lies a small tourism beach town, a hidden gem known among locals and travel enthusiasts; famed for it's unique beach scenery with peaceful town atmosphere. However, there have been a sharp spike in theft reports within the area, consequently harming the local tourism prospects and livelihood of locals working there. Meanwhile, authorities and locals decided to work together to apprehend criminals for their thievery, hoping to restore the tourism scene back to its former glory.</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_bkm:: BK001, BK002, BK003]</p>
-<h1 id="article" tabindex="-1">Article</h1>
-<h2 id="article-set-1" tabindex="-1">Article Set 1</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Android Fundamental Concept</a> (AR001) [380]<br>◆ Androids — sapient, humanoid robots with discernible mechanical traits — are a highly influential but controversial subset of the population, and have become integral yet scarce participants in human society. Built with productivity and performance in mind, their skills and expertise have proven to be indispensable — thriving by contributing to the economy and society at large.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Bangkok 22th Century</a> (AR002) [588]<br>◆ Current world timeline is set to be in 22nd century (year 2120), and adopts perspective and viewpoint from Bangkok, Thailand. The metropolis has experienced significant development across all aspects, including, but not limited to the economy, society, infrastructure, technology, and commercial landscape. Despite all numerous developments, Bangkok still remain to it's core identity by preserving its culture, society, architecture, and natural environments—even amidst the integration of androids into human civilization and the subsequent leaps in economic and technological progress.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Avian Intelligence Adaptation</a> (AR003) [372]<br>◆ Theory on how birds—parrots/parakeets, crows/ravens, and pigeons/sparrows adapted to the modern urban ecosystem, thriving in food-scarce, navigationally-complex environments. Notable observations are as follows: parrots engage in advanced social interactions—crows demonstrate problem-solving skills—pigeons collaborate in large flocks, although they shy away from humans.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Thailand Culture and Society</a> (AR004) [448]<br>◆ Thailand is known to have a rich culture and society, woven from centuries of traditions along with vast modern influences. Thailand as a whole takes pride for their cultural factors and soft-power influence, aiming to become the cultural powerhouse to export their fame and influence globally. General observation of Thai culture descriptor includes but not limited to: kind, polite, laxed, collectivist, social-oriented, reputational-sacred, etc.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Android—Human Mutual Coexistence</a> (AR005) [546]<br>◆ Ever since the signing of Android Individuality Agreement and internal recognition/acceptance of android, the modern civilization has took a great leap in terms of advancement and development across all major industries. Humans offers developed economy and business opportunities, while androids offers specialized expertise and unparalleled productivity. Due to the existence of aforementioned dynamics, both benefits from each other in a mutually-beneficial relationship and have depend on each unique offerings ever since the common agreement.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Modern Technological Advancements</a> (AR006) [363]<br>◆ The mankind as a whole has taken a great leap in terms of technological advancement across all fields, includes but not limited to sustainable science, civil engineering, and advanced robotics. Significant inventions since last few decades are invention/integration of androids as artificial humans, plant-based carbon capture, and biofuel fuel commercialization.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Indochina Interconnected Infrastructure</a> (AR007) [390]<br>◆ The Indochina Infrastructure Bubble (late 2190s) emerged after decades of rapid growth, as speculative investments in transnational infrastructure collapsed under mismanaged debts and expectations. Severe economic and financial fallout within the Indochina countries occurred as a result, forcing governments to cutback on the plan and companies to issue mass layoffs across all industries.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Silverthorne Syndicate</a> (AR008) [554]<br>◆ Silverthorne Syndicate, a criminal organization notorious for financial fraud and corporate espionage within Indochina countries — involving manipulation, extortion, and deceits, and primarily engages with corrupt actors under the table. With powerful connections and sensitive information to exploit, they leverage their knowledge to sway national outcomes from the shadows, advancing their dubious ambitions and unruly influence. Despite their widespread prevalence and notoriety, their presence remains rather elusive among authorities and detectives.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">float-right icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">NS22 Event &amp; Timeline</a> (AR009) [434]<br>◆ Timeline and progression of the NS22 — including various notable events and milestones from 21st to 22nd century — illustrated from the perspective and worldview of Thailand and Indochina. Significant events within the event timeline within the region includes but are not limited to lab-grown/cultured foods, invention of androids as sapient individuals, androids—humans co-existence, and the Indochina Infrastructure complex/crisis.</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_ar01:: AR001, AR002, AR003, AR004, AR005, AR006, AR007, AR008, AR009, AR010]</p>
-<h2 id="article-set-2" tabindex="-1">Article Set 2</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Bangkok Underground Waterworks</a> (AR013) [545]<br>◆ Bangkok Underground Waterworks, a sprawling network beneath Bangkok, integrating water supply, electrical systems, sewage networks, and drainage systems. Designed with maintenance tunnels navigable by technicians, it includes security protocols like 24/7 surveillance, ventilation, gated access points, and pest control. Despite these high security in place, criminal factions exploit some undersecured areas to conduct illicit activities and serving as hideouts, creating persistent challenges for authorities tasked with repairs and oversight.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Blue Rim Tourism Brochure</a> (AR016) [463]<br>◆ Blue Rim (&quot;ริมฟ้า&quot;, &quot;Rim-faa&quot;, &quot;Rim f̂ā&quot;), is a small coastal town residing along a beach located in Chon Buri province, known for it's beautiful beach landscape unique from other nearby towns, along with their seafood cuisine and entertaining events. While this town does not receive much attention to the likes of nearby coastal town known to tourists, Pattaya, this town is still a great alternative choice among beachgoers who prefer a peaceful beach getaway.</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_ar02:: AR011, AR012, AR013, AR014, AR015, AR016, AR017, AR018, AR019, AR020]</p>
-<h2 id="article-set-3" tabindex="-1">Article Set 3</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_ar03:: AR021, AR022, AR023, AR024, AR025, AR026, AR027, AR028, AR029, AR030]</p>
-<h1 id="character" tabindex="-1">Character</h1>
-<h2 id="character-set-01" tabindex="-1">Character Set 01</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/material/character/cr-001/">Lily</a> (CR001) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/material/character/cr-001/">Lily</a> (CR001) [274]<br>◆ Lily — an ambitious, young human female, &quot;aspiring entrepreneur&quot; — works under her family-owned café/restaurant as an assistant manager; has a big dream to open up her own biscuit concept café; enjoys shopping, walking around the city, and likes to hunt for promotion deals.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Clyde</a> (CR002) [273]<br>◆ Clyde — a clever, young android male, &quot;capable analyst&quot; — works as an analyst at a sales company, slowly build a fulfilling career for himself; loves collecting plamo models and novelty items on the side; is particularly meticulous with attention to details and efficiency.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Bee</a> (CR003) [276]<br>◆ Bee — a perfectionist, young human woman, &quot;perfectionist illustrator&quot; — works as as accountant for her distant family-owned supermarket; renowned for her meticulous attention to detail and perfectionist mindset; enjoys illustration and novel reading as her side leisure hobby.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Simon</a> (CR004) [571]<br>◆ Simon—a young adult with no grand ambitions nor objectives—but a simple dream to live and experience the world at his own volition. Though not specialized in any field, he has a wealth of everyday knowledge about culture, trends, and developments. Enjoys taking his time traveling, capturing photographs on his journeys, and documenting his experiences through his blog. Despite avoiding traditional career paths, he maintains a stable income through freelance photography and media-related gigs, allowing him the freedom to explore his passions without financial stress.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Ria</a> (CR005) [186]<br>◆ Ria—a socialite, young android woman, &quot;energetic promoter&quot;—works as a brand promoter under her an investment firm, and enjoys playing tennis in her pastime, and thrives in social events.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Jo</a> (CR006) [184]<br>◆ Jo—an eloquent, young man, &quot;refined pâtissier&quot;—works as a public speaker for a family-owned department store, enjoys various luxury indulgences, and enjoys cooking up fine fancy meals.</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr01:: CR001, CR002, CR003, CR004, CR005, CR006]</p>
-<h2 id="character-set-02" tabindex="-1">Character Set 02</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr02:: CR007, CR008, CR009, CR010, CR011, CR012]</p>
-<h2 id="character-set-03" tabindex="-1">Character Set 03</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr03:: CR013, CR014, CR015, CR016, CR017, CR018]</p>
-<h2 id="character-set-04" tabindex="-1">Character Set 04</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">PLACEHOLDER</a> (CR019) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">PLACEHOLDER</a> (CR020) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">PLACEHOLDER</a> (CR021) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">PLACEHOLDER</a> (CR022) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Roger</a> (CR023) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">York</a> (CR024) [0]<br>◆ -</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr04:: CR019, CR020, CR021, CR022, CR023, CR024]</p>
-<h2 id="character-set-05" tabindex="-1">Character Set 05</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Faa</a> (CR030) [0]<br>◆ -</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr05:: CR025, CR026, CR027, CR028, CR029, CR030]</p>
-<h2 id="character-set-06" tabindex="-1">Character Set 06</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Four</a> (CR031) [291]<br>◆ Four — an indifferent, security guard bot, &quot;reliable guard&quot; — serves as a 24/7 security guard for the local residents residing in one beach tourism town; provides constant surveillance and security, and can assist duties with authorities; occasionally enjoys watching movies and televisions.</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr06:: CR031]</p>
-<h2 id="character-set-07" tabindex="-1">Character Set 07</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Lee</a> (CR037) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Vany</a> (CR038) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Nat</a> (CR040) [0]<br>◆ -</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr07:: CR037, CR038, CR039, CR040, CR041, CR042]</p>
-<h2 id="character-set-08" tabindex="-1">Character Set 08</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Vin</a> (CR043) [198]<br>◆ Vin—a vigilant, adult android man, &quot;vigilant agent&quot;—serves as a security agent against criminals and threats, formerly a human but his grievous injuries forced him to transfer to a new android body.</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Ella</a> (CR044) [194]<br>◆ Ella—a business-savvy, adult woman, &quot;graceful singer&quot;; owned and founded a successful grill bar &amp; restaurant by herself with a help from her fiancé, also has a side career as a small influencer.</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr08:: CR043, CR044, CR045, CR046, CR047, CR048]</p>
-<h2 id="character-set-09" tabindex="-1">Character Set 09</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Henry</a> (CR049) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Tony</a> (CR050) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Lina</a> (CR051) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR052</a> (CR052) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR053</a> (CR053) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR054</a> (CR054) [0]<br>◆ -</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr09:: CR049, CR050, CR051, CR052, CR053, CR054]</p>
-<h2 id="character-set-10" tabindex="-1">Character Set 10</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Saul</a> (CR055) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR056</a> (CR056) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR057</a> (CR057) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR058</a> (CR058) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR059</a> (CR059) [0]<br>◆ -</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">CR060</a> (CR060) [0]<br>◆ -</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr10:: CR055, CR056, CR057, CR058, CR059, CR060]</p>
-<h2 id="character-set-11" tabindex="-1">Character Set 11</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr11:: CR061, CR062, CR063, CR064, CR065, CR066]</p>
-<h2 id="character-set-12" tabindex="-1">Character Set 12</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr12:: CR067, CR068, CR069, CR070, CR071, CR072]</p>
-<h2 id="character-set-13" tabindex="-1">Character Set 13</h2>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Image</th>
-<th>description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">icon</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Beanie</a> (CR073) [356]<br>◆ Beanie—a talkative, young male parrot, &quot;residential parrot&quot;—a parrot living in a coastal town, charms both tourists and locals he meets with his endearing friendliness and cheerful voice. Though he sometimes overwhelms people with his talkative demeanor and unflattering gossip, he remains a beloved community figure, always spreading joy wherever he goes.</td>
-</tr>
-</tbody>
-</table></div>
-<p>{ .block-language-dataview}<br>
-[set_cr13:: CR073, CR074, CR075, CR076, CR077, CR078]</p>
-<h1 id="miscellaneous" tabindex="-1">Miscellaneous</h1>
-<h2 id="personal-notes" tabindex="-1">Personal Notes</h2>
-<div class="callout is-collapsible is-collapsed" data-callout="material"><div class="callout-title"><div class="callout-title-inner"> Material: <a class="internal-link is-unresolved" href="/404" target="">nin827's Project NS22 Remarks</a></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div></div>
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<p><em>Read more at <a class="internal-link is-unresolved" href="/404" target="">nin827's Project NS22 Remarks</a> for more details.</em><br>
+<mark>(Coming soon)</mark></p>
+<h2 id="contributors" tabindex="-1">Contributors</h2>
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/member/mb-001/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 <div class="markdown-embed-title">
-<h1 id="no-h-no-link-clean" tabindex="-1">no-h no-link clean</h1>
+<h1 id="clean" tabindex="-1">clean</h1>
 </div>
-<h1 id="material" tabindex="-1">Material</h1>
 <div class="callout" data-callout="empty"><div class="callout-title"><div class="callout-title-inner">Empty</div></div>
 <div class="callout-content">
 <p>
-<picture src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon"><source media="(max-width:480px)" srcset="/img/optimized/4sFLnT5IT--256.webp" type="image/webp">
+</p><h1 id="nin827-nin" tabindex="-1">nin827 (Nin)</h1>
+<p></p><p><picture src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon"><source media="(max-width:480px)" srcset="/img/optimized/4sFLnT5IT--256.webp" type="image/webp">
 <source media="(max-width:480px)" srcset="/img/optimized/4sFLnT5IT--256.jpeg">
-<img class="" src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon" width=""></picture>◆ This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.</p>
+<img class="" src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon" width=""></picture> Hello, I like novelty stuff — something of interest and intrigue. <br><br><a class="tag" onclick="toggleTagSearch(this)" data-content="#project">#project</a>.owner, <a class="tag" onclick="toggleTagSearch(this)" data-content="#project">#project</a>.lead, <a class="tag" onclick="toggleTagSearch(this)" data-content="#illustrator">#illustrator</a>.icon, <a class="tag" onclick="toggleTagSearch(this)" data-content="#illustrator">#illustrator</a>.thumbnail, <a class="tag" onclick="toggleTagSearch(this)" data-content="#writer">#writer</a>.story, <a class="tag" onclick="toggleTagSearch(this)" data-content="#writer">#writer</a>.profile <br><br><a href="https://nin827.github.io/" target="_blank" class="external-link">Main Website</a>, <a href="https://www.tumblr.com/nin827" target="_blank" class="external-link">Tumblr</a>, <a href="https://www.facebook.com/nin827" target="_blank" class="external-link">Facebook</a></p>
 </div></div>
-<ul>
-<li>This project, <strong>New Siam 22th Century</strong>, abbreviated <strong>NS22</strong>, is a novel project owned by <strong>nin827</strong>. <mark>OWNERSHIP</mark>
-<ul>
-<li>The ownership of this project and assets, including artwork and writing, shall be majority owned by <strong>nin827</strong> only. Unless specifically stated for certain materials, which credits will be given accordingly per contributing party.
-<ul>
-<li>Other users can contribute certain part of the project, such as character/concept/entry or certain part of chapter. Of which, they will receive credits accordingly.</li>
-<li>Such material are allowed to be used outside of NS22 as necessary, provided the surrounding context is distinct enough and is not used in disparaging/malicious manner.</li>
-</ul>
-</li>
-<li>Book/novel/blog ownership rights in English language, and intellectual ideas &amp; concepts of the project belong solely to <strong>nin827</strong>; credits of specific materials can be shared to other contributing user/group, if any.
-<ul>
-<li>In simple words: idea owned by nin827 and other, if any, books owned by nin827, novel owned by nin827, blog owned by nin827, other medium owned by whoever.</li>
-</ul>
-</li>
-<li>Ownership rights outside book/novel/blog medium will be up to the publishing entity holding the ownership, and requires <strong>nin827</strong>'s approval for commercial use (fair use with bit of monetization are exempted).</li>
-</ul>
-</li>
-<li>... <mark>FAIR-USE</mark></li>
-<li>... ==DIRECTION</li>
-<li>... ==AI-ASSIST</li>
-<li>... <mark>INTEGRITY</mark></li>
-<li>... <mark>ILLUSTRATION</mark></li>
-<li>... <mark>MISCELLANEOUS</mark>
-<ul>
-<li><strong>nin827</strong> is the owner of the project, including rights to publish in book/novel/novel medium.
-<ul>
-<li>See the parent note labeled under OWNERSHIP category.</li>
-</ul>
-</li>
-<li>Never, be litigious and sue-happy, like <strong>Nintendo</strong> (the law and patent firm).</li>
-<li>Never, insult and vilify the target audience, like the <strong>mainstream 2010-2020s Western creative industry</strong>.</li>
-<li>Always, be neutral in various aspect and avoid sensitive natures as necessary.
-<ul>
-<li>It is not in my interest to be in &quot;red&quot; or &quot;blue&quot; political teams of any kind, commonly the US bipartisan politics.
-<ul>
-<li>Besides, this project is not related to</li>
-</ul>
-</li>
-<li>It is not in my interest to be an advocate for or against any politics, social, economic, religion, sexuality, human rights, whatever.
-<ul>
-<li>Obviously, all people should be free to whatever they please, but this project is not the right platform do be an advocate such thing.</li>
-<li>Maybe except technology which is for the future, the literal bread and butter of the projectto advance technology, to improve civilization, to set manageable expectations, and to understand associated risks.</li>
-</ul>
-</li>
-<li>It is not my interest to platform and preach others, definitely not do conduct like those &quot;activists&quot; (sane activists are fine), there is a proper place and time for that.</li>
-</ul>
-</li>
-<li>Never, do retcons, especially for major foundation and pivotal moments.
-<ul>
-<li>However, retcons are allowed for correcting minor details.</li>
-</ul>
-</li>
-<li>Always prioritize long-term trust and goodwill, than short-term profit and exploitation.
-<ul>
-<li>Profit will always follow if things are done right, as long there is some monetization in place.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
 </div></div>
-<h2 id="database-views" tabindex="-1">Database Views</h2>
-<blockquote>
-<p><strong>Link to</strong>: <a class="internal-link is-unresolved" href="/404" target="">Database Article</a><br>
-<strong>Link to</strong>: <a class="internal-link is-unresolved" href="/404" target="">Database Character</a><br>
-<strong>Link to</strong>: <a class="internal-link is-unresolved" href="/404" target="">Database Point</a></p>
-</blockquote>
-<h2 id="relevant-bridges" tabindex="-1">Relevant Bridges</h2>
-<blockquote>
-<p><strong>Link to</strong>: <a class="internal-link is-unresolved" href="/404" target="">Bridge Article</a><br>
-<strong>Link to</strong>: <a class="internal-link is-unresolved" href="/404" target="">Bridge Character</a><br>
-<strong>Link to</strong>: <a class="internal-link is-unresolved" href="/404" target="">Bridge Template</a></p>
-</blockquote>
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/member/mb-002/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 <div class="markdown-embed-title">
-<h1 id="no-title" tabindex="-1">no-title</h1>
+<h1 id="clean-1" tabindex="-1">clean</h1>
 </div>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/ar-000/">ARTICLE*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/bk-000/">BOOK*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/bk-000-c/">BOOK (Content)*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/bk-000-c00/">BOOK (00. CHAPTER)*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/bk-000-c/">BOOK (Content)*</a></li>
-<li><a class="internal-link is-unresolved" href="/404" target="">CHARACTER*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/no-0000/">NOTE*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/pn-000000/">POINT*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/rf-00000/">REFERENCE*</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/resource/template/tm-00000000000000/">TEMPORARY*</a></li>
-</ul>
+<div class="callout" data-callout="empty"><div class="callout-title"><div class="callout-title-inner">Empty</div></div>
+<div class="callout-content">
+<p>
+</p><h1 id="cheeramisu-chee" tabindex="-1">Cheeramisu (Chee)</h1>
+<p></p><p><picture src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon"><source media="(max-width:480px)" srcset="/img/optimized/4sFLnT5IT--256.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/4sFLnT5IT--256.jpeg">
+<img class="" src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon" width=""></picture> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl. <br><br><a class="tag" onclick="toggleTagSearch(this)" data-content="#illustrator">#illustrator</a>.icon <br><br><a href="Google" target="_blank" class="external-link">https://www.google.com</a></p>
 </div></div>
+</div></div>
+<h1 id="articles" tabindex="-1">Articles</h1>
+<p>...</p>
+<h1 id="characters" tabindex="-1">Characters</h1>
+<p>...</p>
+<h1 id="elements" tabindex="-1">Elements</h1>
+<p>...</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -750,67 +296,27 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
+<li><a href="#index">Index</a>
+</li>
 <li><a href="#overview">Overview</a>
-</li>
-<li><a href="#book">Book</a>
-</li>
-<li><a href="#article">Article</a>
 <ol>
-<li><a href="#article-set-1">Article Set 1</a>
-</li>
-<li><a href="#article-set-2">Article Set 2</a>
-</li>
-<li><a href="#article-set-3">Article Set 3</a>
+<li><a href="#contributors">Contributors</a>
 </li>
 </ol>
 </li>
-<li><a href="#character">Character</a>
-<ol>
-<li><a href="#character-set-01">Character Set 01</a>
+<li><a href="#clean">clean</a>
 </li>
-<li><a href="#character-set-02">Character Set 02</a>
+<li><a href="#nin827-nin">nin827 (Nin)</a>
 </li>
-<li><a href="#character-set-03">Character Set 03</a>
+<li><a href="#clean-1">clean</a>
 </li>
-<li><a href="#character-set-04">Character Set 04</a>
+<li><a href="#cheeramisu-chee">Cheeramisu (Chee)</a>
 </li>
-<li><a href="#character-set-05">Character Set 05</a>
+<li><a href="#articles">Articles</a>
 </li>
-<li><a href="#character-set-06">Character Set 06</a>
+<li><a href="#characters">Characters</a>
 </li>
-<li><a href="#character-set-07">Character Set 07</a>
-</li>
-<li><a href="#character-set-08">Character Set 08</a>
-</li>
-<li><a href="#character-set-09">Character Set 09</a>
-</li>
-<li><a href="#character-set-10">Character Set 10</a>
-</li>
-<li><a href="#character-set-11">Character Set 11</a>
-</li>
-<li><a href="#character-set-12">Character Set 12</a>
-</li>
-<li><a href="#character-set-13">Character Set 13</a>
-</li>
-</ol>
-</li>
-<li><a href="#miscellaneous">Miscellaneous</a>
-<ol>
-<li><a href="#personal-notes">Personal Notes</a>
-</li>
-</ol>
-</li>
-<li><a href="#no-h-no-link-clean">no-h no-link clean</a>
-</li>
-<li><a href="#material">Material</a>
-<ol>
-<li><a href="#database-views">Database Views</a>
-</li>
-<li><a href="#relevant-bridges">Relevant Bridges</a>
-</li>
-</ol>
-</li>
-<li><a href="#no-title">no-title</a>
+<li><a href="#elements">Elements</a>
 </li>
 </ol>
 </nav>
