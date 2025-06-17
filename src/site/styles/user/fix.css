@@ -20,7 +20,7 @@ body {
 	
 	/* Reduce div callout padding to compensate for p margin */
 	div.callout-content {
-		margin-top: -16px;
-		margin-bottom: -16px;
+		margin-top: -1em;
+		margin-bottom: -1em;
 	}
 }
