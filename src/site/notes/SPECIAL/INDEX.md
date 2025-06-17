@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/special/index/","tags":["-special","gardenEntry"]}
 ---
 
-# Index
+>[!empty]
+> # Index
 
 > **Link to**: [[HOMEPG\|Homepage]]
 
