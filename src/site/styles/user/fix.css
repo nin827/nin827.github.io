@@ -1,0 +1,18 @@
+body {
+	.markdown-embed {
+		padding: 0px 0px 0px 0px;
+		border-left: var(--embed-border-right);
+	}
+
+	// Modify embed vertical spacing
+	div.callout {
+		margin-top: 8px;
+		margin-bottom: 8px;
+	}
+	
+	// Remove embed horizontal paddings
+	div.transclusion.internal-embed.is-loaded {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
