@@ -1,5 +1,5 @@
 ---
-{"name":"Index","cssclasses":["central"],"tags":["-special","gardenEntry"],"dg-home":true,"dg-publish":true,"aliases":"INDEX","permalink":"/special/index/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/special/index/","tags":["-special","gardenEntry"],"noteIcon":""}
 ---
 
 >[!empty]
