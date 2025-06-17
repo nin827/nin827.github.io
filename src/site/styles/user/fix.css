@@ -21,5 +21,7 @@ body {
 	a.markdown-embed-link {
 		top: 0px;
 		right: 0px;
+		opacity: 0.5;
+		padding-top: 0px;
 	}
 }
