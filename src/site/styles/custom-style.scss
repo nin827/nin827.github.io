@@ -1,5 +1,5 @@
 body {
-	
+	// Custom font
 	.noto-sans {
 		font-family: "Noto Sans", sans-serif;
 		font-optical-sizing: auto;
@@ -8,6 +8,9 @@ body {
 		font-variation-settings:
 			"wdth" 100;
 	}
+
+	// Change font
+	--font-default: "Noto Sans";
 	
 	.callout[data-callout="navigation"] {
 		--callout-color: 223, 223, 223;
