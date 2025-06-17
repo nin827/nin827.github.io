@@ -23,5 +23,12 @@ body {
 		right: 0px;
 		opacity: 0.5;
 		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+
+	/* Reduce div callout padding to compensate for p margin */
+	div.callout-content {
+		margin-top: -1em;
+		margin-bottom: -1em;
 	}
 }
