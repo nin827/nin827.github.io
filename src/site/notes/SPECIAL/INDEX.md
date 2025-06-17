@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special/index/","tags":["-special","gardenEntry"]}
+{"dg-publish":true,"permalink":"/special/index/","tags":["-special","gardenEntry"],"noteIcon":""}
 ---
 
 >[!empty]
@@ -47,6 +47,18 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 > ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl. <br><br>illustrator.icon <br><br>[https://www.google.com](Google) 
 
 </div></div>
+
+
+
+## Test
+
+| Image                                               | description                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[RESOURCE/ASSET/ICON/CR001.png\|icon]]            | **[[MATERIAL/CHARACTER/CR001\|Lily]] (CR001) [274]**<br>Lily — an ambitious, young human female, "aspiring entrepreneur" — works under her family-owned café/restaurant as an assistant manager; has a big dream to open up her own biscuit concept café; enjoys shopping, walking around the city, and likes to hunt for promotion deals. |
+| ![[RESOURCE/ASSET/OTHER/PlaceholderIcon.png\|icon]] | **[[RESOURCE/MEMBER/MB001\|nin827 (Nin)]] (MB001) [65]**<br>Hello, I like novelty stuff — something of interest and intrigue.                                                                                                                                                                                                              |
+| ![[RESOURCE/ASSET/OTHER/PlaceholderIcon.png\|icon]] | **[[RESOURCE/MEMBER/MB002\|Cheeramisu (Chee)]] (MB002) [213]**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl.                                                    |
+
+{ .block-language-dataview}
 
 
 # Articles
