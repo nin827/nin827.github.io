@@ -1,10 +1,10 @@
-body {
-	// Custom font
+// Custom font
 	@font-face {
 		font-family: 'Noto Sans'; /*a name to be used later*/
 		src: url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap'); /*URL to font*/
 	}
 
+body {
 	// Change font family
 	--font-default: "Noto Sans";
 	--font-text: "Noto Sans";
@@ -115,10 +115,16 @@ body {
 		border-left: var(--embed-border-right);
 	}
 
-	// Modify embed spacing
+	// Modify embed vertical spacing
 	div.callout {
 		margin-top: 8px;
 		margin-bottom: 8px;
+	}
+	
+	// Remove embed horizontal paddings
+	div.transclusion.internal-embed.is-loaded {
+		padding-left: 0px;
+		padding-right: 0px;
 	}
 	
 // Closing bracket
