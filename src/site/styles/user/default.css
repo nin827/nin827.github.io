@@ -5,8 +5,11 @@ body {
 	--font-text-theme: "Noto Sans";
 	--font-interface: "Noto Sans";
 	--font-interface-theme: "Noto Sans";
-
+	
+	/* Default font size*/
+	font-size: 12px;
+	
 	p {
-		font-size: 12px;
+		font-size: 1em;
 	}
 }
