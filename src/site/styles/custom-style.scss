@@ -9,9 +9,14 @@ body {
 			"wdth" 100;
 	}
 
-	// Change font
+	// Change font family
 	--font-default: "Noto Sans";
 	--font-text: "Noto Sans";
+	
+	// Paragraph font setup
+	p {
+		font-size: 16px;
+	}
 	
 	.callout[data-callout="navigation"] {
 		--callout-color: 223, 223, 223;
