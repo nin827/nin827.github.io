@@ -7,7 +7,11 @@ body {
 	--font-interface-theme: "Noto Sans";
 	
 	/* Default font size*/
-	--font-text-size: 10px;
+	--font-text-size: 12px;
+	--font-ui-smaller: 10px;
+	--font-ui-small: 12px;
+	--font-ui-medium: 15px;
+	--font-ui-large: 18px;
 	font-size: var(--font-text-size);
 	
 	p {
