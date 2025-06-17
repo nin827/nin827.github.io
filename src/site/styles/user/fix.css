@@ -4,14 +4,14 @@ body {
 		border-left: var(--embed-border-right);
 	}
 
-	// Modify embed vertical spacing
+	/* Modify embed vertical spacing
 	div.callout {
 		margin-top: 8px;
 		margin-bottom: 8px;
 		padding: 12px;
 	}
 	
-	// Remove embed horizontal paddings
+	/* Remove embed horizontal paddings
 	div.transclusion.internal-embed.is-loaded {
 		padding-left: 0px;
 		padding-right: 0px;
