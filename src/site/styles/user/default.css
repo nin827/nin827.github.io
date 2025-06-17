@@ -8,7 +8,7 @@ body {
 	
 	/* Default font size*/
 	--font-text-size: 12px;
-	font-size: --font-text-size;
+	font-size: var(--font-text-size);
 	
 	p {
 		font-size: 1em;
