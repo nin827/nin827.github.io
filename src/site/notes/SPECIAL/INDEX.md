@@ -28,7 +28,7 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 >[!empty]
 > # nin827 (Nin)
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) Hello, I like novelty stuff — something of interest and intrigue. <br><br>\#project.owner, \#project.lead, \#illustrator.icon, \#illustrator.thumbnail, \#writer.story, \#writer.profile  <br><br>[Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827) 
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) Hello, I like novelty stuff — something of interest and intrigue. <br><br>project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile <br><br>[Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827) 
 
 </div></div>
 
@@ -44,7 +44,7 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 >[!empty]
 > # Cheeramisu (Chee)
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl. <br><br>\#illustrator.icon  <br><br>[https://www.google.com](Google) 
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl. <br><br>illustrator.icon <br><br>[https://www.google.com](Google) 
 
 </div></div>
 
