@@ -4,7 +4,7 @@ body {
 		border-left: var(--embed-border-right);
 	}
 
-	/* Modify embed vertical spacing */
+	/* Modify embed vertical spacings */
 	div.callout {
 		margin-top: 8px;
 		margin-bottom: 8px;
