@@ -1,4 +1,5 @@
 body {
+	/* Remove general padding from embeds */
 	.markdown-embed {
 		padding: 0px 0px 0px 0px;
 		border-left: var(--embed-border-right);
@@ -15,5 +16,11 @@ body {
 	div.transclusion.internal-embed.is-loaded {
 		padding-left: 0px;
 		padding-right: 0px;
+	}
+	
+	/* Reduce div callout padding to compensate for p margin */
+	div.callout-content {
+		margin-top: -16px;
+		margin-bottom: -16px;
 	}
 }
