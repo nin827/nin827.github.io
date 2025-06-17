@@ -20,10 +20,11 @@ body {
 	/* Modify embed link position */
 	a.markdown-embed-link {
 		top: 0px;
-		right: -4px;
+		right: 0px;
 		opacity: 0.5;
-		padding-top: 0px;
-		padding-bottom: 0px;
+		padding: 2px;
+		height: 16px;
+		width: 16px;
 	}
 
 	/* Reduce div callout padding to compensate for p margin */
