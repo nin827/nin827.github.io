@@ -20,7 +20,7 @@ body {
 	/* Modify embed link position */
 	a.markdown-embed-link {
 		top: 0px;
-		right: -1px;
+		right: -4px;
 		opacity: 0.5;
 		padding-top: 0px;
 		padding-bottom: 0px;
@@ -28,7 +28,7 @@ body {
 
 	/* Reduce div callout padding to compensate for p margin */
 	div.callout-content {
-		margin-top: 0em;
-		margin-bottom: 0em;
+		margin-top: 0px;
+		margin-bottom: 0px;
 	}
 }
