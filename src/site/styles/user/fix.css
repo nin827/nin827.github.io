@@ -9,7 +9,10 @@ body {
 	div.callout {
 		margin-top: 8px;
 		margin-bottom: 8px;
-		padding: 12px;
+		padding-left: 12px;
+		padding-right: 12px;
+		padding-top: 6px;
+		padding-down: 6px;
 	}
 	
 	/* Remove embed horizontal paddings */
