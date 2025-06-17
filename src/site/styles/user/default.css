@@ -7,13 +7,13 @@ body {
 	--font-interface-theme: "Noto Sans";
 	
 	/* Default font size*/
-	font-size: 12px;
+	font-size: 12px !important;
 	
 	p {
-		font-size: 1rem;
+		font-size: 1em;
 	}
 
 	em {
-		font-size: 1rem;
+		font-size: 1em;
 	}
 }
