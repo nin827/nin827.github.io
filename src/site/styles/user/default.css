@@ -15,7 +15,7 @@ body {
 	font-size: var(--font-text-size);
 	
 	/* Set font color */
-	--font-bold-color: var(--font-text-size);
+	--bold-color: var(--text-normal);
 	
 	/* Set font size */
 	.content {font-size: 1em;}
