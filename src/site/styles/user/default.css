@@ -14,15 +14,11 @@ body {
 	--font-ui-large: 18px;
 	font-size: var(--font-text-size);
 	
-	.content {
-		font-size: 1em;
-	}
+	/* Set font color */
+	--font-bold-color: var(--font-text-size);
 	
-	p {
-		font-size: var(--font-text-size);
-	}
-
-	em {
-		font-size: var(--font-text-size);
-	}
+	/* Set font size */
+	.content {font-size: 1em;}
+	p {font-size: var(--font-text-size);}
+	em {font-size: var(--font-text-size);}
 }
