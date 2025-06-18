@@ -166,4 +166,8 @@ body {
 			display: none;
 		}
 	}
+	
+	div.navbar-inner {
+		margin: 25px;
+	}
 }
