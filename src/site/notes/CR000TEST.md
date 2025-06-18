@@ -6,7 +6,7 @@
 > ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u style="font-size: 1.5em;"> TEST </u>
 > Lorem ipsum sit dolor amet.
 > 
-> *Test 1 | Test 2 | Test 3*
+> *Test 1 | Test 2 | Test 3 | Test 4*
 { #profile}
 
 
