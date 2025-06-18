@@ -64,11 +64,11 @@ body {
 	}
 	
 	/* Remove general padding from embeds */
-	.markdown-embed {
+	.internal-embed .markdown-embed {
 		padding: 0px;
 		border-left: var(--embed-border-right);
 	}
-
+	
 	/* Modify embed vertical spacings */
 	div.callout {
 		margin-top: 8px;
@@ -90,8 +90,8 @@ body {
 		right: 0px;
 		opacity: 0.5;
 		padding: 2px;
-		height: 22px;
-		width: 22px;
+		height: 22px !important;
+		width: 22px !important;
 	}
 
 	/* Reduce div callout padding to compensate for p margin */
@@ -103,11 +103,6 @@ body {
 	/* Add callout title top margin */
 	div.callout-title {
 		margin-top: 0.5rem;
-	}
-	
-	/* Override margin-inline for the theme */
-	:is(:is(.markdown-source-view.mod-cm6) :is(.cm-content, .cm-line), .markdown-rendered) :is(img, .external-embed, .internal-embed audio, .internal-embed video, .iframe-external-embed) {
-		margin-inline: !important;
 	}
 	
 		.callout[data-callout="navigation"] {
