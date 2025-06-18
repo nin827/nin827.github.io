@@ -40,4 +40,6 @@ body {
 	div.callout-title {
 		margin-top: 0.5rem;
 	}
+	
+	div {unicode-bidi: normal;}
 }
