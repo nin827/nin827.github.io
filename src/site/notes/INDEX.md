@@ -23,7 +23,7 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 > ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u style="font-size: 1.5em;"> TEST </u>
 > x
 > 
-> *\-*
+> *Test 1 | Test 2 | Tst 3*
 
 </div></div>
 
