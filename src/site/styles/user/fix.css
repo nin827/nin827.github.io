@@ -32,12 +32,12 @@ body {
 
 	/* Reduce div callout padding to compensate for p margin */
 	div.callout-content {
-		margin-top: 0.5rem;
-		margin-bottom: 0.5rem;
+		margin-top: 0rem;
+		margin-bottom: 0rem;
 	}
 	
 	/* Add callout title top margin*/
-	div.callout-content {
+	div.callout-title {
 		margin-top: 0.5rem;
 	}
 }
