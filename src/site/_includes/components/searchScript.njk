@@ -116,7 +116,7 @@
                     tokenize: "reverse",
                     encode: encoder
                 }, {
-                    field: "title",
+                    field: "name",
                     tokenize: "forward",
                     encode: encoder
                 }, {
@@ -128,7 +128,7 @@
         })
         posts.forEach((p, idx) => {
             contentIndex.add({
-                id: idx, title: p.title, content: p.content, tags: p.tags //Change to removeHTML
+                id: idx, name: p.name, content: p.content, tags: p.tags //Change to removeHTML
             })
         });
         return contentIndex;
@@ -299,7 +299,7 @@
         results.forEach(r => {
             if(r.tags && r.tags.length > 0){
                 resultsHTML += `<div class="searchresult">
-                    <a class="search-link" href="${r.url}">${r.title}</a>
+                    <a class="search-link" href="${r.url}">${r.name}</a>
                     <div onclick="window.location='${r.url}'">
                         <div class="header-meta">
                             <div class="header-tags">
@@ -311,7 +311,7 @@
                 </div>`;
             } else {
                 resultsHTML += `<div class="searchresult">
-                    <a class="search-link" href="${r.url}">${r.title}</a>
+                    <a class="search-link" href="${r.url}">${r.name}</a>
                     <div onclick="window.location='${r.url}'">
                         ${r.content}
                     </div>
@@ -343,7 +343,7 @@
             ])
             : index.search(searchQuery, [
                 {
-                    field: "title",
+                    field: "name",
                     limit: 5
                 }, {
                     field: "content",
@@ -360,7 +360,7 @@
             }
         }
         const allIds = new Set([
-            ...getByField("title"),
+            ...getByField("name"),
             ...getByField("content"),
             ...getByField("tags")
         ])
