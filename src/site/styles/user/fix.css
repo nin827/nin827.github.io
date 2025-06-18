@@ -36,10 +36,13 @@ body {
 		margin-bottom: 0rem;
 	}
 	
-	/* Add callout title top margin*/
+	/* Add callout title top margin */
 	div.callout-title {
 		margin-top: 0.5rem;
 	}
 	
-	div {unicode-bidi: normal;}
+	/* Override margin-inline for the theme */
+	:is(:is(.markdown-source-view.mod-cm6) :is(.cm-content, .cm-line), .markdown-rendered) :is(img, .external-embed, .internal-embed audio, .internal-embed video, .iframe-external-embed) {
+		margin-inline: auto;
+	}	
 }
