@@ -43,6 +43,6 @@ body {
 	
 	/* Override margin-inline for the theme */
 	:is(:is(.markdown-source-view.mod-cm6) :is(.cm-content, .cm-line), .markdown-rendered) :is(img, .external-embed, .internal-embed audio, .internal-embed video, .iframe-external-embed) {
-		margin-inline: auto;
+		margin-inline: !important;
 	}	
 }
