@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cr-000-test/","tags":["-character"]}
+{"dg-publish":true,"permalink":"/cr-000-test/","title":"TEST","tags":["-character"],"noteIcon":""}
 ---
 
 >[!empty]
