@@ -18,6 +18,13 @@ body {
 	font-size: var(--font-text-size);
 	
 	/* Set font color */
+	--base-h: 0;
+	--base-s: 0%;
+	--base-l: 96%;
+	--accent-h: 258;
+	--accent-s: 88%;
+	--accent-l: 66%;
+	
 	--text-accent: #8a5cf5 !important;
 	strong {color: var(--text-normal);}
 	a {color: var(--text-accent);}
