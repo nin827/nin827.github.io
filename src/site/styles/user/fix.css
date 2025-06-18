@@ -35,4 +35,9 @@ body {
 		margin-top: 0.5rem;
 		margin-bottom: 0.5rem;
 	}
+	
+	/* Add callout title top margin*/
+	div.callout-content {
+		margin-top: 0.5rem;
+	}
 }
