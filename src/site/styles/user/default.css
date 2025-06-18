@@ -167,7 +167,7 @@ body {
 		}
 	}
 	
-	div.navbar-inner {
-		margin: 25px;
+	span {
+		margin-left: 25px;
 	}
 }
