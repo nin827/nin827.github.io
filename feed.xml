@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://nin827.github.io/">
-    <title>Project NS22</title>
-    <link href="https://nin827.github.io//feed.xml" rel="self" >
-    <link href="https://nin827.github.io/" >
-    <updated>2025-06-19T03:47:58Z</updated>
+    <title>nin827—NS22</title>
+    <link href="https://nin827.github.io//feed.xml" rel="self" />
+    <link href="https://nin827.github.io/" />
+    <updated>2025-06-19T06:17:02Z</updated>
     <id>https://nin827.github.io/</id>
         <entry>
             <title>
                 TM00000000000000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/tm-00000000000000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -31,14 +31,14 @@ Subject to further review and modifications; conversion to other formats are to 
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/tm-00000000000000/" >
+            <link href="https://nin827.github.io//resource/template/tm-00000000000000/" />
         </entry>
         <entry>
             <title>
                 RF00000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/rf-00000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -55,14 +55,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/rf-00000/" >
+            <link href="https://nin827.github.io//resource/template/rf-00000/" />
         </entry>
         <entry>
             <title>
                 PN000000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/pn-000000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -79,14 +79,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/pn-000000/" >
+            <link href="https://nin827.github.io//resource/template/pn-000000/" />
         </entry>
         <entry>
             <title>
                 NO0000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/no-0000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -103,14 +103,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/no-0000/" >
+            <link href="https://nin827.github.io//resource/template/no-0000/" />
         </entry>
         <entry>
             <title>
                 MB000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/mb-000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -123,14 +123,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/mb-000/" >
+            <link href="https://nin827.github.io//resource/template/mb-000/" />
         </entry>
         <entry>
             <title>
                 CR000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/cr-000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -149,14 +149,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/cr-000/" >
+            <link href="https://nin827.github.io//resource/template/cr-000/" />
         </entry>
         <entry>
             <title>
                 BK000_C00
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/bk-000-c00/</id>
             <content type="html">
                 &lt;blockquote&gt;
@@ -181,14 +181,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/blockquote&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/bk-000-c00/" >
+            <link href="https://nin827.github.io//resource/template/bk-000-c00/" />
         </entry>
         <entry>
             <title>
                 BK000_C
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/bk-000-c/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -220,14 +220,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu mi fringilla, volutpat sapien non, convallis diam. Duis felis quam, auctor vehicula mollis congue, mattis ac neque. Nam nec finibus libero. Cras pretium mattis mi, at pulvinar justo tincidunt at. Quisque imperdiet ac ante id laoreet. Fusce ultricies justo neque, at mattis neque tempor non. Mauris fringilla vitae diam eget congue. Sed vitae dui nec libero fringilla congue. Nam ligula tellus, auctor sit amet sagittis et, interdum et sem. Ut fermentum varius est quis tempor. Quisque arcu libero, efficitur id dictum id, tempus in erat. Sed at ultricies sapien, vitae commodo magna. Duis lacinia, libero vel consectetur commodo, dolor turpis faucibus sapien, in finibus orci enim id orci. Nunc sed sapien metus. Nam ultrices tortor lectus, quis facilisis orci hendrerit placerat.&lt;/p&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/bk-000-c/" >
+            <link href="https://nin827.github.io//resource/template/bk-000-c/" />
         </entry>
         <entry>
             <title>
                 BK000_B
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/bk-000-b/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-em-resource-template-bk-000-book-em-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;em&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nin827.github.io/resource/template/bk-000/&quot;&gt;BOOK&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;*&lt;/h1&gt;
@@ -246,14 +246,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;h3 id=&quot;character-6&quot; tabindex=&quot;-1&quot;&gt;(CHARACTER 6)&lt;/h3&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/bk-000-b/" >
+            <link href="https://nin827.github.io//resource/template/bk-000-b/" />
         </entry>
         <entry>
             <title>
                 BK000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/bk-000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -274,14 +274,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/blockquote&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/bk-000/" >
+            <link href="https://nin827.github.io//resource/template/bk-000/" />
         </entry>
         <entry>
             <title>
                 AR000
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/template/ar-000/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -298,14 +298,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/template/ar-000/" >
+            <link href="https://nin827.github.io//resource/template/ar-000/" />
         </entry>
         <entry>
             <title>
                 MB002
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/member/mb-002/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -318,14 +318,14 @@ Miso Soup fueled Artist, boiled well-done since 1998. &lt;em&gt;&lt;br /&gt;&lt;
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/member/mb-002/" >
+            <link href="https://nin827.github.io//resource/member/mb-002/" />
         </entry>
         <entry>
             <title>
                 MB001
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//resource/member/mb-001/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -338,14 +338,14 @@ Hello, I like novelty stuff — something of interest or intrigue. &lt;em&gt;&lt
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//resource/member/mb-001/" >
+            <link href="https://nin827.github.io//resource/member/mb-001/" />
         </entry>
         <entry>
             <title>
                 INDEX
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//</id>
             <content type="html">
                 &lt;h1 id=&quot;index&quot; tabindex=&quot;-1&quot;&gt;Index&lt;/h1&gt;
@@ -385,14 +385,14 @@ Miso Soup fueled Artist, boiled well-done since 1998. &lt;em&gt;&lt;br /&gt;&lt;
 &lt;p&gt;...&lt;/p&gt;
 
             </content>
-            <link href="https://nin827.github.io//" >
+            <link href="https://nin827.github.io//" />
         </entry>
         <entry>
             <title>
                 CR000TEST
                 
             </title>
-            <updated>2025-06-19T03:47:46Z</updated>
+            <updated>2025-06-19T06:16:44Z</updated>
             <id>https://nin827.github.io//cr-000-test/</id>
             <content type="html">
                 &lt;blockquote id=&quot;profile&quot;&gt;
@@ -409,6 +409,6 @@ Lorem ipsum sit dolor amet.&lt;/p&gt;
 &lt;/ul&gt;
 
             </content>
-            <link href="https://nin827.github.io//cr-000-test/" >
+            <link href="https://nin827.github.io//cr-000-test/" />
         </entry>
 </feed>
