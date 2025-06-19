@@ -180,4 +180,9 @@ body {
 		margin-top: 0px;
 		margin-bottom: 0px;
 	}
+ 
+ div.search-button.align-icon {
+  display: none;
+  justify-content: center;
+ }
 }
