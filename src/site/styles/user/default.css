@@ -77,7 +77,10 @@ body {
 		margin-right: auto;
 	}
 	
-	p:has(> img[alt*="thumbnail"]) {text-align: center;}
+	
+	p:has(> img[alt*="thumbnail"]), img[alt*="center"] {
+		text-align: center;
+	}
 	
 	/* Modify embed vertical spacings */
 	div.callout {
