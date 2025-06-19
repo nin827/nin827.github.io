@@ -4,7 +4,11 @@
 
 # Overview
 
-This project, __New Siam 22th Century__, or __NS22__, is a novel project involving Bangkok, Thailand, in a speculative 22th century setting involving mutual coexistence between humans and androids as the central theme. This also covers the idea of sapient AIs interweaving into human-driven society. Assume that the narrative starts on 2120s.
+>[!empty]
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title"> [[SPECIAL/NS22IN\|NS22 Index]] </u>
+> This project, __New Siam 22th Century__, or __NS22__, is a novel project involving Bangkok, Thailand, in a speculative 22th century setting involving mutual coexistence between humans and androids as the central theme. This also covers the idea of sapient AIs interweaving into human-driven society. Assume that the narrative starts on 2120s.
+{ #profile}
+
 
 _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more details._
 ==(Coming soon)==
@@ -17,7 +21,7 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 
 >[!empty]
-> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title"> nin827 (Nin) </u>
+> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title"> [[RESOURCE/MEMBER/MB001\|nin827 (Nin)]] </u>
 > Hello, I like novelty stuff — interesting and intriguing. **<br><br>\> project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile <br><br>\> [Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827) **
 
 </div></div>
