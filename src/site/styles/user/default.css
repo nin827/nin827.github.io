@@ -41,13 +41,6 @@ body {
 	--h5-size: 1.2em;
 	--h6-size: 1.1em;
 	
-	/* Image center align */
-	img[alt*="center"] {
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-	}
-	
 	img[alt*="float-right"] {
 		float: right;
 		clear: right;
@@ -83,6 +76,8 @@ body {
 		margin-left: auto;
 		margin-right: auto;
 	}
+	
+	p:has(> img[alt*="thumbnail"]) {text-align: center;}
 	
 	/* Modify embed vertical spacings */
 	div.callout {
