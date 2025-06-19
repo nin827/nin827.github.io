@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["-special","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"Index","tags":["-special","gardenEntry"]}
 ---
 
 # Index
@@ -20,7 +20,7 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u style="font-size: 1.5em;"> TEST </u>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title"> TEST </u>
 > Lorem ipsum sit dolor amet.
 > 
 > *Test 1 | Test 2 | Test 3 | Test 4*
@@ -33,8 +33,8 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 
 >[!empty]
-> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u style="font-size: 1.5em;"> nin827 (Nin) </u>
-> Hello, I like novelty stuff — something of interest or intrigue. *<br><br>project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile* <br><br>[Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827) 
+> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title"> nin827 (Nin) </u>
+> Hello, I like novelty stuff — something of interest or intrigue. <br><br>\> project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile <br><br>\~ [Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827) 
 
 </div></div>
 
@@ -44,8 +44,8 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 
 >[!empty]
-> ![RESOURCE/ASSET/ICON/MB002.png|icon](/img/user/RESOURCE/ASSET/ICON/MB002.png) <u style="font-size: 1.5em;"> Cheeramisuu (Chee) </u>
-> Miso Soup fueled Artist, boiled well-done since 1998. *<br><br>illustrator.icon* <br><br>[ArtStation](https://www.artstation.com/cheeramisuu) 
+> ![RESOURCE/ASSET/ICON/MB002.png|icon](/img/user/RESOURCE/ASSET/ICON/MB002.png) <u class="title"> Cheeramisuu (Chee) </u>
+> Miso Soup fueled Artist, boiled well-done since 1998. <br><br>\> illustrator.icon <br><br>\~ [ArtStation](https://www.artstation.com/cheeramisuu) 
 
 </div></div>
 
