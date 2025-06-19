@@ -22,7 +22,7 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 >[!empty]
 > ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title"> [[RESOURCE/MEMBER/MB001\|nin827 (Nin)]] </u>
-> Hello, I like novelty stuff — interesting and intriguing. **<br><br>\> project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile <br><br>\> [Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827) **
+> Hello, I like novelty stuff — interesting and intriguing. ** <br><br>\> project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile <br><br>\> [Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827) **
 
 </div></div>
 
@@ -33,7 +33,7 @@ _Read more at [[MATERIAL/NOTEx/NO0012\|nin827's Project NS22 Remarks]] for more 
 
 >[!empty]
 > ![RESOURCE/ASSET/ICON/MB002.png|icon](/img/user/RESOURCE/ASSET/ICON/MB002.png) <u class="title"> Cheeramisuu (Chee) </u>
-> Miso Soup fueled Artist, boiled well-done since 1998. **<br><br>\> illustrator.icon <br><br>\> [ArtStation](https://www.artstation.com/cheeramisuu) **
+> Miso Soup fueled Artist, boiled well-done since 1998. ** <br><br>\> illustrator.icon <br><br>\> [ArtStation](https://www.artstation.com/cheeramisuu) **
 
 </div></div>
 
