@@ -84,7 +84,6 @@ body {
 	/* Remove general padding from embeds */
 	.internal-embed .markdown-embed {
 		padding: 0px;
-		border-left: var(--embed-border-right);
 	}
 	
 	/* Modify embed vertical spacings */
