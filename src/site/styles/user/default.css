@@ -81,11 +81,6 @@ body {
 		width: 512px;
 	}
 	
-	/* Remove general padding from embeds */
-	.internal-embed .markdown-embed {
-		padding: 0px;
-	}
-	
 	/* Modify embed vertical spacings */
 	div.callout {
 		margin-top: 8px;
