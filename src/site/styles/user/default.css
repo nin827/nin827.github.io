@@ -1,4 +1,8 @@
 body {
+	::-webkit-scrollbar {
+		z-index: 4;
+	}
+	
 	/* Change font family */
 	--font-default: "Noto Sans";
 	--font-text: "Noto Sans";
