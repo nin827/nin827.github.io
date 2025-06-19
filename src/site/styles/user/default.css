@@ -123,6 +123,7 @@ body {
 	/* Add callout title top margin */
 	div.callout-title {
 		margin-top: 0.5rem;
+		margin-bottom: 0.5rem;
 	}
 	
 		.callout[data-callout="navigation"] {
