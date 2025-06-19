@@ -194,7 +194,7 @@ body {
 	/* Remove 800px media width */
 	@media (max-width: 800px) {
  		.navbar h1 {
-        		font-size: 2em !important;
+        		font-size: var(--h1-size) !important;
 		}
 	}
 }
