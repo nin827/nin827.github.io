@@ -181,5 +181,13 @@ body {
 		margin-bottom: 0px;
 	}
 	
+	/* Apply custom CSS class for entry card titles */
+	.title {
+		line-height: 1em;
+		font-size: 1.5em;
+		font-weight: bold;
+	}
+	
+	/* Reduce page side margins */
 	--file-margins: var(--size-4-2) var(--size-4-8);
 }
