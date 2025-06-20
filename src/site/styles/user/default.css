@@ -45,6 +45,11 @@ body {
 	--h5-size: 1.2em;
 	--h6-size: 1.1em;
 	
+	/* Remove image border radius */
+	img {
+		border-radius: 0px;
+	}
+	
 	img[alt*="float-right"] {
 		float: right;
 		clear: right;
