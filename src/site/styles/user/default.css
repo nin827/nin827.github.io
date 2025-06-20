@@ -1,4 +1,9 @@
 body {
+	div.navbar-inner:has(h1) {
+		margin-left: 5px !important;
+		margin-right: 5px !important;
+	}
+	
 	/* IMPORTANT: Use "Minimal" as base theme */
 	
 	/* Fix navbar overlap soon*/
