@@ -10,7 +10,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title"> [[RESOURCE/MEMBER/MB001\|nin827 (Nin)]] </u>
+> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title"> [[RESOURCE/MEMBER/MB001\|nin827 (Nin)]]  [MB001] </u>
 > Hello, I like novelty stuff — interesting and intriguing. <b><br><br>\> project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile</b> <b><br><br>\> [Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827)</b>
 
 </div></div>
