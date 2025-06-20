@@ -199,12 +199,6 @@ body {
 	u.title {
 		line-height: 1em;
 		font-size: 1.5em;
-		font-weight: bold;
-	}
-	
-	sup.title {
-		line-height: 1em;
-		font-size: 1.5em;
 	}
 	
 	/* Reduce page side margins */
