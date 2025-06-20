@@ -1,5 +1,5 @@
 body {
-	h1:has(> div.navbar-inner) {
+	h1:has(> a) {
 		margin-left: 5px !important;
 		margin-right: 5px !important;
 	}
