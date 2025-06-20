@@ -1,11 +1,7 @@
 body {
-	a > h1 {
-		margin: 10px !important;
-	}
-	
 	/* IMPORTANT: Use "Minimal" as base theme */
 	
-	/* Fix navbar overlap soon */
+	/* NOTE: Fix navbar overlap soon, issue only applies to desktop browser for some reason */
 
 	/* Change font family */
 	--font-default: "Noto Sans";
@@ -52,6 +48,7 @@ body {
 	/* Remove image border radius */
 	--image-radius: 0px;
 	
+	/* Set image attributes */
 	img[alt*="float-right"] {
 		float: right;
 		clear: right;
@@ -70,7 +67,6 @@ body {
 		margin-top: 0px;
 	}
 	
-	/* Icons are always float right aligned */
 	img[alt*="icon"] {
 		width: 128px;
 		float: right;
@@ -81,7 +77,10 @@ body {
 		margin-top: 0px;
 	}
 	
-	/* Set thumbnail icon sizes */
+	img[alt*="sample"] {
+		width: 256px;
+	}
+	
 	img[alt*="thumbnail"] {
 		width: 512px;
 		margin-left: auto;
