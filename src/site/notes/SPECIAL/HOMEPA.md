@@ -27,22 +27,22 @@
 </div></div>
 
 
-Hello, this website is currently under construction.
+Hello, this website is currently under construction. More content to come slowly, but surely.
 
-# [[SPECIAL/PORTFO\|Portfolio]]
+# [[SPECIAL/PORTFOLIO/PORTFO\|Portfolio]]
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/special/portfo/#preview" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/special/portfolio/portfo/#preview" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 ![PICTURE_Central-side-street_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Central-side-street_THUMBNAIL_dt2302.png)
 ![PICTURE_Park-entrace-waiting_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Park-entrace-waiting_THUMBNAIL_dt2302.png)
-![PICTURE_Suburban-apartment-balcony-view_THUMBNAIL_dt2408.png](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Suburban-apartment-balcony-view_THUMBNAIL_dt2408.png)
+![PICTURE_Suburban-apartment-balcony-view_THUMBNAIL_dt2408.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Suburban-apartment-balcony-view_THUMBNAIL_dt2408.png)
 ![PICTURE_Central-elevated-walkway_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Central-elevated-walkway_THUMBNAIL_dt2302.png)
-![PICTURE_Ella-reminiscing-former-partner_THUMBNAIL_cg003-dt2501-scElla.png](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Ella-reminiscing-former-partner_THUMBNAIL_cg003-dt2501-scElla.png)
-![PICTURE_Rural-canal-bridge_THUMBNAIL_dt2302.png](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Rural-canal-bridge_THUMBNAIL_dt2302.png)
-![PICTURE_Counterattack-anticipation_THUMBNAIL_crVin-dt2206.png](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Counterattack-anticipation_THUMBNAIL_crVin-dt2206.png)
-![PICTURE_Empty-residential-land-lot_THUMBNAIL_dt2302.png](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Empty-residential-land-lot_THUMBNAIL_dt2302.png)
+![PICTURE_Ella-reminiscing-former-partner_THUMBNAIL_cg003-dt2501-scElla.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Ella-reminiscing-former-partner_THUMBNAIL_cg003-dt2501-scElla.png)
+![PICTURE_Rural-canal-bridge_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Rural-canal-bridge_THUMBNAIL_dt2302.png)
+![PICTURE_Counterattack-anticipation_THUMBNAIL_crVin-dt2206.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Counterattack-anticipation_THUMBNAIL_crVin-dt2206.png)
+![PICTURE_Empty-residential-land-lot_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Empty-residential-land-lot_THUMBNAIL_dt2302.png)
 
 </div></div>

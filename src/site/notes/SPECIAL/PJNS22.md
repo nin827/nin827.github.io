@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"PJNS22.md\"","permalink":"/pjns-22/","title":"Project NS22","tags":["-special"]}
+{"dg-publish":true,"permalink":"/special/pjns-22/","title":"Project NS22","tags":["-special"]}
 ---
 
 # Overview
