@@ -38,7 +38,7 @@ body {
 	.content {font-size: 1em;}
 	p {font-size: var(--font-text-size);}
 	em {font-size: var(--font-text-size);}
-	--h1-size: 1.8em;
+	--h1-size: 1.7em;
 	--h2-size: 1.5em;
 	--h3-size: 1.3em;
 	--h4-size: 1.2em;
