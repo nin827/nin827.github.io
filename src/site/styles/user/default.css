@@ -1,7 +1,11 @@
 body {
+	a > h1 {
+		margin: 10px !important;
+	}
+	
 	/* IMPORTANT: Use "Minimal" as base theme */
 	
-	/* Fix navbar overlap soon*/
+	/* Fix navbar overlap soon */
 
 	/* Change font family */
 	--font-default: "Noto Sans";
