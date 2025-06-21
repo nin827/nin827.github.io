@@ -77,8 +77,16 @@ body {
 		margin-top: 0px;
 	}
 	
-	img[alt*="sample"] {
+	img[alt*="sample1"] {
+		width: 128px;
+	}
+	
+	img[alt*="sample2"] img[alt*="sample"] {
 		width: 256px;
+	}
+	
+	img[alt*="sample3"] {
+		width: 384px;
 	}
 	
 	img[alt*="thumbnail"] {
