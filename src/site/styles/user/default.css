@@ -81,7 +81,7 @@ body {
 		width: 128px;
 	}
 	
-	img[alt*="sample2"] img[alt*="sample"] {
+	img[alt*="sample2"], img[alt*="sample"] {
 		width: 256px;
 	}
 	
