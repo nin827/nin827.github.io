@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"SPECIAL/OTHER/BRIDGE_TP.md\"","permalink":"/special/other/bridge-tp/","title":"Bridge Template","tags":["-bridge"]}
+{"dg-publish":true,"dg-path":"SPECIAL/OTHER/BRIDGE_TP.md","permalink":"/special/other/bridge-tp/","title":"Bridge Template","tags":["-bridge"]}
 ---
 
 - [[RESOURCE/TEMPLATE/AR000\|ARTICLE*]]
@@ -10,6 +10,7 @@
 - [[RESOURCE/TEMPLATE/BK000_O\|BOOK (Outline)*]]
 - [[RESOURCE/TEMPLATE/CR000\|CHARACTER*]]
 - [[RESOURCE/TEMPLATE/EL000000\|ELEMENT*]]
+- [[RESOURCE/TEMPLATE/MB000\|MEMBER*]]
 - [[RESOURCE/TEMPLATE/NO0000\|NOTE*]]
 - [[RESOURCE/TEMPLATE/RF00000\|REFERENCE*]]
 - [[RESOURCE/TEMPLATE/TM00000000000000\|TEMPORARY*]]
