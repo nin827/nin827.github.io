@@ -21,7 +21,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">GenAIs & LLMs Purpose and Nuances</u> <sup class="title">NO0002</sup> <sub class="title">`=choice(this.complete=false,"×","")`</sub>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">GenAIs & LLMs Purpose and Nuances</u> <sup class="title">NO0002</sup> <sub class="title"> </sub>
 > Notes regarding GenAIs & LLMs usage, scenario, ethics, and nuances — including nin827's personal observation and remarks.
 > 
 > <b>genai | ai | llm | ethics | moral | nuances | caution | careful optimism</b>
@@ -34,7 +34,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Character Group Sets</u> <sup class="title">NO0003</sup> <sub class="title">`=choice(this.complete=false,"×","")`</sub>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Character Group Sets</u> <sup class="title">NO0003</sup> <sub class="title"> </sub>
 > Meta document to list character set by each main book series involvement, relevancy, and organization.
 > 
 > <b>meta | character | character set | plan | draft | group</b>
@@ -47,7 +47,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Material Categories</u> <sup class="title">NO0004</sup> <sub class="title">`=choice(this.complete=false,"×","")`</sub>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Material Categories</u> <sup class="title">NO0004</sup> <sub class="title"> </sub>
 > Meta document to list, identify, and organize point & chapter materials files by various categories — fact, opinion, idea, report, profile, study, moment, dump.
 > 
 > <b>meta | article | category | group | sort | criteria | format</b>
