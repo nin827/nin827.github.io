@@ -50,6 +50,6 @@
 
 # Miscellaneous
 
-![PICTURE_Yaranaika-facial-analysis_SAMPLE_cg003_dt2207.png|sample2](/img/user/RESOURCE/ASSET/ARTWORK/SAMPLE/PICTURE_Yaranaika-facial-analysis_SAMPLE_cg003_dt2207.png)
+![PICTURE_Yaranaika-facial-analysis_SAMPLE_cg003_dt2207.png|sample1](/img/user/RESOURCE/ASSET/ARTWORK/SAMPLE/PICTURE_Yaranaika-facial-analysis_SAMPLE_cg003_dt2207.png)
 
-![PICTURE_The-skeletal-orchestra-conductor-sketch_SAMPLE-cg031-dt2504.png|sample](/img/user/RESOURCE/ASSET/ARTWORK/SAMPLE/PICTURE_The-skeletal-orchestra-conductor-sketch_SAMPLE-cg031-dt2504.png)
+![PICTURE_The-skeletal-orchestra-conductor-sketch_SAMPLE-cg031-dt2504.png|sample4](/img/user/RESOURCE/ASSET/ARTWORK/SAMPLE/PICTURE_The-skeletal-orchestra-conductor-sketch_SAMPLE-cg031-dt2504.png)

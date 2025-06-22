@@ -43,6 +43,7 @@ Hello, this website is currently under construction. More content to come slowly
 - [[SPECIAL/PORTFOLIO/ILLUST_S01\|Illustration: Sample]]
 - [[SPECIAL/PORTFOLIO/ILLUST_A01\|Illustration: Study]]
 - [[SPECIAL/PORTFOLIO/ILLUST_B01\|Illustration: Bonus]]
+- [[SPECIAL/PORTFOLIO/PHOTOG\|Photography]]
 
 </div></div>
 
