@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>ARTICLE*</title>
+<title>Integrity, Consistency, and Trust</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -129,7 +129,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/material/note/no-0010/">Integrity, Consistency, and Trust </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/material/note/no-0010/">Integrity, Consistency, and Trust </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -176,7 +176,7 @@ CTRL + K
 <span class="foldername">TEMPLATE</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/resource/template/ar-000/">ARTICLE* </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/resource/template/ar-000/">ARTICLE* </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -316,11 +316,17 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-06-22T11:34:41.112Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-06-22T11:34:41.112Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-06-22T11:34:41.112Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">ARTICLE*</h1>
+<h1 data-note-icon="">Integrity, Consistency, and Trust</h1>
 <div class="header-meta">
 <div class="header-tags">
 <a class="tag" onclick="toggleTagSearch(this)">
-#-article
+#-note
+</a>
+<a class="tag" onclick="toggleTagSearch(this)">
+#-meta
+</a>
+<a class="tag" onclick="toggleTagSearch(this)">
+#-personal
 </a>
 </div>
 </div>
@@ -328,16 +334,98 @@ CTRL + K
 <div id="profile" class="callout" data-callout="empty"><div class="callout-title"><div class="callout-title-inner">Empty</div></div>
 <div class="callout-content">
 <p>
-<img src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon"> <u class="title">ARTICLE*</u> <sup class="title">AR000</sup> <sub class="title">×</sub><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl.</p>
-<p><b>milk | chocolate | strawberry | blueberry | peanut | caramel</b></p>
+<img src="/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png" alt="RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon"> <u class="title">Integrity, Consistency, and Trust</u> <sup class="title">NO0010</sup> <sub class="title"><code>=choice(this.complete=false,&quot;×&quot;,&quot;&quot;)</code></sub><br>
+Meta—personal document to maintain integrity, consistency, and trust — all in the name of cultivating long-term trust and strong relation with audience.</p>
+<p><b>integrity | consistency | trust | framework | creative | reputation | production | author | creator | audience | consumer | media | feedback | concept | retcon | perspective | neutral</b></p>
+</div></div>
+<div class="callout" data-callout="caution"><div class="callout-title"><div class="callout-title-inner">Caution</div></div>
+<div class="callout-content">
+<p>
+Please consider the project scope, resources, and circumstances. Some may not apply to smaller projects, while some may be especially critical for larger projects.</p>
 </div></div>
 <ul>
-<li><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl.</em></li>
-<li>Quisque et quam ultrices, luctus tortor et, mattis erat.</li>
-<li>Integer enim dolor, iaculis eget commodo eget, cursus id enim.</li>
-<li>Proin lorem dui, bibendum id tellus at, viverra consequat nunc.</li>
+<li>Stick to key concepts established within the story — keep it consistent, justified, and logical.
+<ul>
+<li>Being inconsistent could confuse or frustrate audiences, or even the creator(s) during the production process.</li>
+<li>It is fine to be random—nonsense or precise—meticulous — but one must be consistent from start to end.</li>
 </ul>
+</li>
+<li>Never retcon existing concepts that change the core storyline; continue what was left, not contradict what was before.
+<ul>
+<li>Allowed exceptions are alternate universes, hypothetical stories, or minor details that do not affect the overall plot.</li>
+<li>Should there be any major retcon, the new will be published separately with a clear footnote, while the old one will still be publicly available as archived version.</li>
+<li>Any attempts of retcon must not be taken lightly — consider audiences' trust, potential implications, and production difficulties.</li>
+</ul>
+</li>
+<li>Take account from any constructive feedback received — understand the audience, and develop your work to the full potential.
+<ul>
+<li>Empty praises, despite making one feel good, are equally useless as baseless hates and yields no constructive value.</li>
+<li>Consider both positive and negative constructive feedbacks — focus on the substance, not the tone of the message.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></li>
+<li>Even if feedbacks are valuable and impactful, always evaluate whether if it fits with the project vision and direction.</li>
+</ul>
+</li>
+<li>Always thoroughly review before publishing, and correct mistakes after publishing if it is possible to do so.<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>
+<ul>
+<li>It is recommended to leave for at least a day to refresh one's mind, then recheck everything before actually publishing.</li>
+<li>Minor post-publish update/edit can be done on the spot — anything that does not affect established settings.</li>
+<li>Moderate—major changes requires proper documentation through footnotes or archive — referring to anything from notable details to major outcomes.</li>
+<li>Be transparent with any reasons or changes in republish, and make sure it is done in a genuine and justified cause.</li>
+</ul>
+</li>
+<li>Approach any topics with proper precautions, appropriate sensitivities, and unbiased perspectives — simply keep it neutral, justified, and informed.
+<ul>
+<li>Be especially cautious if any sensitive or complex topics are involved — sanitize to be safe, not sterilize to be boring.<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup></li>
+<li>Even works that is heavily biased to a side, it is ideal to at least be informed of the other side and present their cases as well.<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup></li>
+<li>Content can be biased to match the narrative, but the research must be methodological and unbiased — no exceptions.</li>
+<li>Only attempt to explain/describe what you understand, otherwise do more research or avoid the subject entirely.</li>
+</ul>
+</li>
+<li>​Try to not violate audiences' trust and ruin (your) creator's reputation — play it safe, maintain the long-term game.
+<ul>
+<li>Simply be honest, authentic, and punctual — not greedy, dishonest, nor spiteful — also not gullible nor too self-critical.</li>
+<li>Disclose any usage of AI-generated content — even then, make sure it is not used as key content for public commercial use.</li>
+<li>Be careful to not over-promise your audience, or you will just disappoint them — know your limits, under-promise and over-deliver.</li>
+<li>Do not attempt please the audience at cost of project integrity just for the sake of pandering — you either please no one or lose the charm, or possibly both.</li>
+</ul>
+</li>
+<li>Maintain reference documents defining all rules, settings, events, casts, and elements established within the project — .<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup><sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup>
+<ul>
+<li>Important to prevent accidental contradictions and provide reliable reference during production.<sup class="footnote-ref"><a href="#fn7" id="fnref7">[7]</a></sup></li>
+<li>Document every settings and elements no matter how small the detail is, it can help build up the project foundation in the long-term.</li>
+</ul>
+</li>
+<li>Establish clear boundaries with your audience — prioritize sustainable work practice for long term creative health.
+<ul>
+<li>Do not be too open to be overwhelmed or exploited by others, or too closed and shut off from others entirely.</li>
+<li>Know what you can or cannot share, enough to keep them engaged, not enough to spoil them too much.</li>
+</ul>
+</li>
+<li>Most importantly, consider the project scope, resources, and circumstances — some principles here will not apply for smaller projects, some other principles here will be extra critical for larger projects.
+<ul>
+<li>Simple practices are ideal for one-time-done projects, but scales poorly and requires even more effort to maintain in larger project.</li>
+<li>Proper system/methods are ideal for long-term continuous projects, but are counterproductive and impractical to apply in smaller projects.</li>
+</ul>
+</li>
+</ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>It is fine to appreciate positive tones in feedbacks — this does not mean you should only look for excessively rude or harsh comments. Courtesy is still appreciated regardless of substantial feedback. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>Create a standardized pre-publish checklist covering: (1) canon consistency, (2) factual accuracy (if applicable), (3) logical flow, (4) tone alignment, (5) sensitivity review (where appropriate), (5) spelling/grammar, and (6) fulfillment of any promises made about the content. Not all must be made with each publish, please consider the project scope and circumstances to adjust the checklist accordingly. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>Strongly consider seek engagement from sensitive readers for sensitive topics, or subject matter expert for complex topics before publication. Document their feedbacks, what was their reaction/perception, and how to address it. Sanitizing content too much to the point of being sterile can end up boring — and may even be counterproductive to sensitive group of audience you meant to target to. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>If the work inherently holds a strong bias, include a brief, transparent statement acknowledging its stance and the effort made to understand opposing views, without undermining the work's own position. Use preface, footnotes, or remarks without indirectly incorporating into the main content. <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>Reference documents include but are not limited to wiki, database, style guide, directories, profile, etc. <a href="#fnref5" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>This does not apply to small one-done-deal projects — only one to few reference files will suffice, or even none are needed. Anything else may require some documentation to play safe, start with documents and spreadsheets for small projects, or PKMS like Notion/Obsidian for medium/large projects. <a href="#fnref6" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn7" class="footnote-item"><p>If an unintended contradiction with established canon is discovered during creation: 1) Pause development on the conflicting element. 2) Re-examine both the new idea and the old canon. 3) Choose the option that best serves the core narrative integrity and audience experience, documenting the decision. Prioritize fixing the cause of the contradiction over retconning the symptom. <a href="#fnref7" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
 </main>
 <aside>
 <div class="sidebar">
@@ -372,7 +460,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputa
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/special/other/bridge-tp/" data-note-icon="" class="backlink">Bridge Template</a>
+<div class="backlink-list"><div class="backlink-card">
+<span class="no-backlinks-message">No other pages mentions this page</span>
 </div></div>
 </div>
 </div>
