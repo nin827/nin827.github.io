@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/special/portfolio/illust-s01/","title":"Illustration: Sample","tags":["-special","-portfolio"]}
+{"dg-publish":true,"permalink":"/special/portfolio/illust-s01/","title":"Illustration: Sample","tags":["-special","-portfolio","-member/nin827"]}
 ---
 
 ![PICTURE_Detailed-stylized-portraits_SAMPLE_cg003_dt2207.png|sample3](/img/user/RESOURCE/ASSET/ARTWORK/SAMPLE/PICTURE_Detailed-stylized-portraits_SAMPLE_cg003_dt2207.png)
+> Admittedly, there are some errors on this practice — as it was made long ago when I was lacking in experience.
 
 ![PICTURE_Cat-lying-on-the-floor_SAMPLE_cg003_dt2206.png|sample3](/img/user/RESOURCE/ASSET/ARTWORK/SAMPLE/PICTURE_Cat-lying-on-the-floor_SAMPLE_cg003_dt2206.png)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special/portfolio/illust-t01/","title":"Illustration: Thumbnails","tags":["-special","-portfolio"]}
+{"dg-publish":true,"permalink":"/special/portfolio/illust-t01/","title":"Illustration: Thumbnails","tags":["-special","-portfolio","-member/nin827"]}
 ---
 
 ![PICTURE_Central-elevated-walkway_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Central-elevated-walkway_THUMBNAIL_dt2302.png)

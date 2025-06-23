@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special/portfolio/illust-b01/","title":"Illustration: Bonus","tags":["-special","-portfolio"]}
+{"dg-publish":true,"permalink":"/special/portfolio/illust-b01/","title":"Illustration: Bonus","tags":["-special","-portfolio","-member/nin827"]}
 ---
 
 # Projects

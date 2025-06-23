@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special/portfolio/illust-a01/","title":"Illustration: Study","tags":["-special","-portfolio"]}
+{"dg-publish":true,"permalink":"/special/portfolio/illust-a01/","title":"Illustration: Study","tags":["-special","-portfolio","-member/nin827"]}
 ---
 
 ![PICTURE_Basic-assorted-objects_SAMPLE_cg003_dt2210.png|sample3](/img/user/RESOURCE/ASSET/ARTWORK/SAMPLE/PICTURE_Basic-assorted-objects_SAMPLE_cg003_dt2210.png)

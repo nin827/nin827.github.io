@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special/portfolio/illust-t02/","title":"Illustration: Thumbnail 2","tags":["-special","-portfolio"]}
+{"dg-publish":true,"permalink":"/special/portfolio/illust-t02/","title":"Illustration: Thumbnail 2","tags":["-special","-portfolio","-member/nin827"]}
 ---
 
 ![PICTURE_The-skeletal-orchestra-conductor_THUMBNAIL-cg031-dt2504.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_The-skeletal-orchestra-conductor_THUMBNAIL-cg031-dt2504.png)
