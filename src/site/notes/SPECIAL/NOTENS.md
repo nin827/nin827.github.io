@@ -8,7 +8,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">nin827's Project NS22 Remarks</u> <sup class="title">NO0001</sup> <sub class="title">×</sub>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">nin827's Project NS22 Remarks</u> <sup class="title">NO0001</sup> <b class="title">×</b>
 > This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.
 > 
 > <b>meta | perspective | vision | experience | thought | what | which | why | how | remark | ownership | nuances | limitations | commercial | copyright</b>
@@ -34,7 +34,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Character Group Sets</u> <sup class="title">NO0003</sup> <sub class="title"> </sub>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Character Group Sets</u> <sup class="title">NO0003</sup> <b class="title"> </b>
 > Meta document to list character set by each main book series involvement, relevancy, and organization.
 > 
 > <b>meta | character | character set | plan | draft | group</b>
@@ -47,7 +47,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Material Categories</u> <sup class="title">NO0004</sup> <sub class="title"> </sub>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Material Categories</u> <sup class="title">NO0004</sup> <b class="title"> </b>
 > Meta document to list, identify, and organize point & chapter materials files by various categories — fact, opinion, idea, report, profile, study, moment, dump.
 > 
 > <b>meta | article | category | group | sort | criteria | format</b>
