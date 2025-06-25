@@ -211,6 +211,10 @@ body {
 		line-height: 1em;
 		font-size: 1.5em;
 	}
+
+	i.title {
+		font-size: 0.5em;
+	}
 	
 	/* Reduce page side margins */
 	--file-margins: var(--size-4-2) var(--size-4-8);
