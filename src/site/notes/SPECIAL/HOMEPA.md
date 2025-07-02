@@ -24,6 +24,8 @@
 >[!empty]
 > ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[SPECIAL/NS22\|Project NS22]]</u> <sup>NS22</sup>
 > This project, __New Siam 22th Century__, or __NS22__, is a novel project involving Bangkok, Thailand, in a speculative 22th century setting involving mutual coexistence between humans and androids as the central theme. This also covers the idea of sapient AIs interweaving into human-driven society. Assume that the narrative starts on 2120s.
+> 
+> <i class="small">—— project laid out by [[RESOURCE/MEMBER/MB001\|nin827]] ——</i>
 
 </div></div>
 
