@@ -206,11 +206,6 @@ body {
 		margin-bottom: 0px;
 	}
 	
-	/* Hide embed title */
-	div.markdown-embed-title, div.markdown-embed > h1, div.markdown-embed > h2, div.markdown-embed > h3, div.markdown-embed > h4, div.markdown-embed > h5, div.markdown-embed > h6 {
-		display: none;
-	}
-	
 	/* Apply custom CSS class for entry card titles */
 	u.title {
 		line-height: 1em;
