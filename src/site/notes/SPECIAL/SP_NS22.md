@@ -36,7 +36,34 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 
 # Articles
 
-...
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/article/ar-001/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/ICON/AR001.png|icon](/img/user/RESOURCE/ASSET/ICON/AR001.png) <u class="title">Android Fundamental Concept</u> <sup class="title">AR001</sup> <b class="title"> </b>
+> Androids — sapient, humanoid robots with discernible mechanical traits — are a highly influential but controversial subset of the population, and have become integral yet scarce participants in human society. Built with productivity and performance in mind, their skills and expertise have proven to be indispensable — thriving by contributing to the economy and society at large.
+> 
+> <b>android | robot | economy | society | coexistence | codependence | skill | labor | productivity | progress | culture</b>
+> <i class="small">importance 3 — reviewed 05/07/25</i>
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/article/ar-002/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/ICON/AR002.png|icon](/img/user/RESOURCE/ASSET/ICON/AR002.png) <u class="title">Bangkok 22th Century</u> <sup class="title">AR002</sup> <b class="title">×</b>
+> Bangkok, Thailand, in 22th century, has become highly developed and positioned itself as one of leading finance, technology, and commerce hub within the continental Southeast Asia. Despite all numerous developments, Bangkok is still filled with internal issues of it's own, hidden well behind it's facade of modernity and normalcy. However, Bangkok is one of those cities that integrated androids into the society and coexist alongside humans — positioning itself as one of forefront cities for tech-augmented civilization.
+> 
+> <b>2120 | 22th century | Bangkok | Thailand | issues | inequality | distribution | finance | technology | commerce | android | integration | coexistence</b>
+> <i class="small">importance 3 — reviewed 05/07/25</i>
+
+</div></div>
+
 
 # Characters
 
@@ -52,7 +79,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 > Lily — an ambitious, young human female, "aspiring entrepreneur" — works under her family-owned café/restaurant as an assistant manager; has a big dream to open up her own biscuit concept café; enjoys shopping, walking around the city, and likes to hunt for promotion deals.
 > 
 > <b>restaurant assistant manager | excels management, service, catering | enjoys baking, shopping | human | female | young adult | business-savvy | active | resourceful | hasty | sassy | ambitious</b>
-> <i class="small">importance 3 — reviewed 22/06/25 — [aspiring entrepreneur] — career focus</i>
+> <i class="small">importance 3 — reviewed 22/06/25 — title: aspiring entrepreneur</i>
 
 </div></div>
 
@@ -66,7 +93,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 > Clyde — a clever, young android male, "capable analyst" — works as an analyst at a sales company, slowly build a fulfilling career for himself; loves collecting plamo models and novelty items on the side; is particularly meticulous with attention to details and efficiency.
 > 
 > <b>junior analyst | excels data, IT, analysis | enjoys figure modeling, collecting items | android | male | young adult | cautious | clever | analytical | meticulous | indecisive | workaholic</b>
-> <i class="small">importance 3 — reviewed unknown — [capable analyst] — career focus</i>
+> <i class="small">importance 3 — reviewed unknown — title: capable analyst</i>
 
 </div></div>
 
@@ -80,7 +107,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 > Bee — a perfectionist, young human woman, "perfectionist illustrator" — works as as accountant for her distant family-owned supermarket; renowned for her meticulous attention to detail and perfectionist mindset; enjoys illustration and novel reading as her side leisure hobby.
 > 
 > <b>junior accountant | excels accounting, planning, time management | enjoys reading, illustrating | human | female | young adult | thorough | consistent | perfectionist | stubborn | creative | playful</b>
-> <i class="small">importance 3 — reviewed 28/06/25 — [perfectionist illustrator] — leisure focus</i>
+> <i class="small">importance 3 — reviewed 28/06/25 — title: perfectionist illustrator</i>
 
 </div></div>
 
@@ -94,7 +121,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 > Simon — a young adult with no grand ambitions nor objectives, "travel enthusiast" — works as a freelance photographer and media-related gigs; enjoys traveling and documenting his experiences through photography and his blog; has a simple dream to live and experience the world as is at his own volition.
 > 
 > <b>freelance photographer | excels photography, photo editing, media | enjoys travels, vlogging, content creation | business administrator major | knows vast connection and client base | human | male | young adult | carefree | knowledgeable | mindful | simple | indifferent | unambitious</b>
-> <i class="small">importance 3 — reviewed unknown — [travel enthusiast] — leisure focus</i>
+> <i class="small">importance 3 — reviewed unknown — title: travel enthusiast</i>
 
 </div></div>
 
@@ -108,7 +135,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 > Ria — a socialite, young android woman, "---" — works as a brand promoter under her an investment firm, and enjoys playing tennis in her pastime, and thrives in social events.
 > 
 > <b>brand promoter | excels marketing, advertising, event setup | enjoys tennis, social events | android | female | young adult | socialite | energetic | risk-seeking | calculated | blunt</b>
-> <i class="small">importance 3 — reviewed unknown — [PLACEHOLDER] — routine focus</i>
+> <i class="small">importance 3 — reviewed unknown — title: PLACEHOLDER</i>
 
 </div></div>
 
