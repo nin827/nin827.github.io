@@ -52,7 +52,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 > Lily — an ambitious, young human female, "aspiring entrepreneur" — works under her family-owned café/restaurant as an assistant manager; has a big dream to open up her own biscuit concept café; enjoys shopping, walking around the city, and likes to hunt for promotion deals.
 > 
 > <b>restaurant assistant manager | excels management, service, catering | enjoys baking, shopping | human | female | young adult | business-savvy | active | resourceful | hasty | sassy | ambitious</b>
-> <i class="small">importance 3 — reviewed 2025-06-22T00:00:00.000+07:00 — [aspiring entrepreneur] — career focus</i>
+> <i class="small">importance 3 — reviewed 22/06/25 — [aspiring entrepreneur] — career focus</i>
 
 </div></div>
 
@@ -80,7 +80,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 > Bee — a perfectionist, young human woman, "perfectionist illustrator" — works as as accountant for her distant family-owned supermarket; renowned for her meticulous attention to detail and perfectionist mindset; enjoys illustration and novel reading as her side leisure hobby.
 > 
 > <b>junior accountant | excels accounting, planning, time management | enjoys reading, illustrating | human | female | young adult | thorough | consistent | perfectionist | stubborn | creative | playful</b>
-> <i class="small">importance 3 — reviewed 2025-06-28T00:00:00.000+07:00 — [perfectionist illustrator] — leisure focus</i>
+> <i class="small">importance 3 — reviewed 28/06/25 — [perfectionist illustrator] — leisure focus</i>
 
 </div></div>
 

@@ -12,6 +12,7 @@
 > This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.
 > 
 > <b>meta | perspective | vision | experience | thought | what | which | why | how | remark | ownership | nuances | limitations | commercial | copyright</b>
+> <i class="small">importance 3 — reviewed 21/06/25</i>
 
 </div></div>
 
@@ -21,10 +22,11 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">GenAIs & LLMs Purpose and Nuances</u> <sup class="title">NO0002</sup> <sub class="title"> </sub>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">GenAIs & LLMs Purpose and Nuances</u> <sup class="title">NO0002</sup> <b class="title"> </b>
 > Notes regarding GenAIs & LLMs usage, scenario, ethics, and nuances — including nin827's personal observation and remarks.
 > 
 > <b>genai | ai | llm | ethics | moral | nuances | caution | careful optimism</b>
+> <i class="small">importance 2 — reviewed unknown</i>
 
 </div></div>
 
@@ -38,6 +40,7 @@
 > Meta document to list character set by each main book series involvement, relevancy, and organization.
 > 
 > <b>meta | character | character set | plan | draft | group</b>
+> <i class="small">importance 1 — reviewed 22/06/25</i>
 
 </div></div>
 
@@ -51,6 +54,7 @@
 > Meta document to list, identify, and organize point & chapter materials files by various categories — fact, opinion, idea, report, profile, study, moment, dump.
 > 
 > <b>meta | article | category | group | sort | criteria | format</b>
+> <i class="small">importance 1 — reviewed unknown</i>
 
 </div></div>
 
