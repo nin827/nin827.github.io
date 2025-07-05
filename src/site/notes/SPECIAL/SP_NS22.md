@@ -140,14 +140,100 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 </div></div>
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/character/cr-006/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/ICON/CR006.png|icon](/img/user/RESOURCE/ASSET/ICON/CR006.png) <u class="title">Jo</u> <sup class="title">CR006</sup> <b class="title">×</b>
+> Jo — an eloquent, young man, "refined pâtissier" — works as an assistant manager and a public speaker for a family-owned department store, enjoys various luxury indulgences, and enjoys cooking up fine fancy meals.
+> 
+> <b>business manager assistant | public speaker | excels management, retail, communication | enjoys cooking, baking | human | male | southeast Asian | eloquent | smooth-talking | refined | snobbish | fair skin</b>
+> <i class="small">importance 3 — reviewed unknown — title: refined pâtissier</i>
+
+</div></div>
+
 # Elements
 
-...
+>[!navigation] Navigation: NS22 Element Index
+> To see all notes related to the project, please go to [[SPECIAL/SP_NSEL\|NS22 Element Index]].
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/element/el-000001/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Bangkok Metropolitan Area</u> <sup class="title">EL000001</sup> <b class="title">×</b>
+> Bangkok, Thailand, one of the bustling city centers within Southeast Asia continent — a major hub for commerce, tourism, and culture. The country positioned itself as one of the leading producers of rice, sugar, lab-grown food, and biofuels of the century.
+> 
+> <b>Bangkok | Thailand | urban | capital | city | culture | economy | society | finance | technology | business | commercial</b>
+> <i class="small">importance 3 — reviewed 04/07/25 — category dump</i>
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/element/el-000002/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Androids</u> <sup class="title">EL000002</sup> <b class="title">×</b>
+> Androids are sapient humanoid robots created to mutually coexist with human civilization, offering elevated performance & productivity in exchange for wealth & opportunities.
+> 
+> <b>android | robot | sapient | sentient | intelligent | humanoid</b>
+> <i class="small">importance 3 — reviewed 05/07/25 — category dump</i>
+
+</div></div>
+
 
 # Notes
 
 >[!navigation] Navigation: NS22 Note Index
 > To see all notes related to the project, please go to [[SPECIAL/SP_NSNO\|NS22 Note Index]].
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/note/no-0001/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">nin827's Project NS22 Remarks</u> <sup class="title">NO0001</sup> <b class="title">×</b>
+> This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.
+> 
+> <b>meta | perspective | vision | experience | thought | what | which | why | how | remark | ownership | nuances | limitations | commercial | copyright</b>
+> <i class="small">importance 3 — reviewed 21/06/25</i>
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/note/no-0005/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Media Literacy 101</u> <sup class="title">NO0005</sup> <b class="title"> </b>
+> Note lists regarding basics of media literacy 101 — focusing on reading comprehension, reading context, fiction—reality separation, and understanding biases/perspectives.
+> 
+> <b>media literacy | author intention | audience interpretation | fiction—reality separation | critical thinking | mindful consumption</b>
+> <i class="small">importance 1 — reviewed 22/06/25</i>
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/material/note/no-0010/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Integrity, Consistency, and Trust</u> <sup class="title">NO0010</sup> <b class="title"> </b>
+> Meta—personal document to maintain integrity, consistency, and trust — all in the name of cultivating long-term trust and strong relation with audience.
+> 
+> <b>integrity | consistency | trust | framework | creative | reputation | production | author | creator | audience | consumer | media | feedback | concept | retcon | perspective | neutral</b>
+> <i class="small">importance 3 — reviewed 22/06/25</i>
+
+</div></div>
+
 
 # Contributors
 

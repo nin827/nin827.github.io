@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"SP_HOME.md\"","permalink":"/sp-home/","title":"Homepage","tags":["#-special","gardenEntry"]}
+{"dg-publish":true,"dg-path":"\"SP_HOME.md\"","permalink":"/sp-home/","title":"Homepage","tags":["-special","gardenEntry"]}
 ---
 
 # Homepage
