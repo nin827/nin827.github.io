@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special/portfolio/portfo/","title":"Portfolio","tags":["-speciak","-portfolio","-member/nin827"]}
+{"dg-publish":true,"permalink":"/special/portfolio/portfo/","title":"Portfolio","tags":["-special","-portfolio","-member/nin827"]}
 ---
 
 - [[SPECIAL/PORTFOLIO/ILLUST_T01\|Illustration: Thumbnails]]
