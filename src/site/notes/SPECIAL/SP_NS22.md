@@ -29,7 +29,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 
 # Books
 
->[!note]
+>[!note] Note: Planned Debut Novel
 > This will not be coming at any time soon, maybe on 2026?
 
 ...
@@ -257,7 +257,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 >[!empty]
 > ![RESOURCE/ASSET/ICON/MB002.png|icon](/img/user/RESOURCE/ASSET/ICON/MB002.png) <u class="title">Cheeramisuu (Chee)</u> <sup class="title">MB002</sup>
 > Miso Soup fueled Artist, boiled well-done since 1998. <b><br><br>illustrator.icon</b> <b><br><br>[ArtStation](https://www.artstation.com/cheeramisuu)</b>
-> <i class="small">importance 1 — active — external — reviewed 17/06/25</i>
+> <i class="small">importance 1 — active — internal — reviewed 17/06/25</i>
 
 </div></div>
 

@@ -23,9 +23,9 @@
 
 >[!empty]
 > ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">GenAIs & LLMs Purpose and Nuances</u> <sup class="title">NO0002</sup> <b class="title"> </b>
-> Notes regarding GenAIs & LLMs usage, scenario, ethics, and nuances — nin827's remarks being generally fine, as long content is not monetized nor credited, alongside with responsible usage to themselves and others.
+> Notes regarding GenAIs & LLMs usage, scenario, ethics, and nuances — nin827's remarks being generally fine, as long content is not monetized nor credited, alongside with responsible and moderate usage of the tool.
 > 
-> <b>generative artifical intelligence | large language model | AI, GAI | ethics | moral | nuances | caution</b>
+> <b>generative artifical intelligence | large language model | AI, GAI | ethics | moral | nuances | caution | moderate | responsible</b>
 > <i class="small">importance 2 — reviewed 06/07/25</i>
 
 </div></div>

@@ -2,6 +2,11 @@
 {"dg-publish":true,"dg-path":"\"SP_HOME.md\"","permalink":"/sp-home/","title":"Homepage","tags":["-special","gardenEntry"]}
 ---
 
+>[!tip]- Website Navigation Tips
+> 1. There is a small chain icon on top-right of each embed which leads to their respective pages.
+> 2. You might also find the sidebar, search, and graph (except mobile) useful to navigate here.
+> 3. Do not rely just what's on the page, some contents are simply not linked anywhere else.
+
 # Homepage
 
 
