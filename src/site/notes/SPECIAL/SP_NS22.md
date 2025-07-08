@@ -164,7 +164,7 @@ _Read more at [[MATERIAL/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Bangkok Metropolitan Area</u> <sup class="title">EL000001</sup> <b class="title">×</b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">Bangkok Metropolitan Area</u> <sup class="title">EL000001</sup> <b class="title"> </b>
 > Bangkok, Thailand, one of the bustling city centers within continental Southeast Asia — positioned itself as one of few major hub in finance, technology, and commerce. The capital city also serves as one of forefronts for android—human coexistence, where either of them are legally treated with equality and dignity.
 > 
 > <b>Bangkok | Thailand | urban | capital | city | finance | technology | commerce | android | coexistence | codependence</b>
