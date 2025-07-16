@@ -4,7 +4,7 @@
 
 >[!tip]- Website Navigation Tips
 > 1. There is a small chain icon on top-right of each embed which leads to their respective pages.
-> 2. You might also find the sidebar, search, and graph (except mobile) useful to navigate here.
+> 2. You might also find the sidebar, search, and graph links useful to navigate here.
 > 3. Do not rely just what's on the page, some contents are simply not linked anywhere else.
 
 # Homepage
@@ -15,7 +15,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title">[[RESOURCE/MEMBER/MB001\|nin827]]</u> <sup class="title">MB001</sup> 
+> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <u class="title">[[RESOURCE/MEMBER/MB001\|nin827]]</u> <sup class="title">MB001</sup>
 > Hello, I like novelty stuff — interesting and intriguing. <b><br><br>project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile</b> <b><br><br>[Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827)</b>
 > <i class="small">aliases: Nin — importance 3 — active — internal — reviewed 19/06/25</i>
 
