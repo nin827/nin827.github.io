@@ -8,7 +8,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0001\|nin827's Project NS22 Remarks]]</u> <sup class="title">NO0001</sup> <b class="title">×</b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0001\|nin827's Project NS22 Remarks]]</u> <sup class="title">NO0001</sup> <b class="title">×</b>
 > This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.
 > 
 > <i class="small">importance: 3 — reviewed: 21/06/25</i>
@@ -21,7 +21,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0002\|GenAIs & LLMs Purpose and Nuances]]</u> <sup class="title">NO0002</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0002\|GenAIs & LLMs Purpose and Nuances]]</u> <sup class="title">NO0002</sup> <b class="title"> </b>
 > Notes regarding GenAIs & LLMs usage, scenario, ethics, and nuances — nin827's remarks being generally fine, as long content is not monetized nor credited, alongside with responsible and moderate usage of the tool.
 > 
 > <i class="small">importance: 2 — reviewed: 06/07/25</i>
@@ -34,7 +34,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0003\|Character Group Sets]]</u> <sup class="title">NO0003</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0003\|Character Group Sets]]</u> <sup class="title">NO0003</sup> <b class="title"> </b>
 > Meta document to list character set by each main book series involvement, relevancy, and organization.
 > 
 > <i class="small">importance: 1 — reviewed: 22/06/25</i>
@@ -47,7 +47,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0004\|NS22 Resources & Materials]]</u> <sup class="title">NO0004</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0004\|NS22 Resources & Materials]]</u> <sup class="title">NO0004</sup> <b class="title"> </b>
 > Miscellaneous meta remarks on resource management of the Project NS22 vault and website.
 > 
 > <i class="small">importance: 3 — reviewed: 22/06/25</i>
@@ -60,7 +60,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0005\|Media Literacy 101]]</u> <sup class="title">NO0005</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0005\|Media Literacy 101]]</u> <sup class="title">NO0005</sup> <b class="title"> </b>
 > Note lists regarding basics of media literacy 101 — focusing on reading comprehension, reading context, fiction—reality separation, and understanding biases/perspectives.
 > 
 > <i class="small">importance: 1 — reviewed: 22/06/25</i>
@@ -73,7 +73,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0006\|Nin's Formatting Style]]</u> <sup class="title">NO0006</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0006\|Nin's Formatting Style]]</u> <sup class="title">NO0006</sup> <b class="title"> </b>
 > Meta document detailing nin827's personal writing, punctuation usage, and formating style used for the Project NS22.
 > 
 > <i class="small">importance: 1 — reviewed: 22/06/25</i>
@@ -86,7 +86,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0007\|Graphics Production Procedures]]</u> <sup class="title">NO0007</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0007\|Graphics Production Procedures]]</u> <sup class="title">NO0007</sup> <b class="title"> </b>
 > Meta document about project production note related to graphics — image, illustrations, visualizing, styling, etc.
 > 
 > <i class="small">importance: 1 — reviewed: unknown</i>
@@ -99,7 +99,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0008\|Text Media Procedures]]</u> <sup class="title">NO0008</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0008\|Text Media Procedures]]</u> <sup class="title">NO0008</sup> <b class="title"> </b>
 > Meta document about project production note related to text — writing, narration, tone, storytelling, etc.
 > 
 > <i class="small">importance: 1 — reviewed: 17/07/25</i>
@@ -112,7 +112,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]]</u> <sup class="title">NO0009</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]]</u> <sup class="title">NO0009</sup> <b class="title"> </b>
 > Characters' legal name must follow according to their national/cultural ordering format. Use `Mr.` or `Ms.` (ignoring `Mrs.`), — first name uses Sentence case, middle name uses Sentence case with "quotes", and last name uses UPPER CASE.
 > 
 > <i class="small">importance: `=this.importance` — reviewed: 17/07/25</i>
@@ -125,7 +125,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0010\|Integrity, Consistency, Trust]]</u> <sup class="title">NO0010</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0010\|Integrity, Consistency, Trust]]</u> <sup class="title">NO0010</sup> <b class="title"> </b>
 > Meta—personal document to maintain integrity, consistency, and trust — all in the name of cultivating long-term trust and strong relation with audience.
 > 
 > <i class="small">importance: 3 — reviewed: 22/06/25</i>
@@ -138,7 +138,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0004\|NS22 Resources & Materials]]</u> <sup class="title">NO0004</sup> <b class="title"> </b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0004\|NS22 Resources & Materials]]</u> <sup class="title">NO0004</sup> <b class="title"> </b>
 > Miscellaneous meta remarks on resource management of the Project NS22 vault and website.
 > 
 > <i class="small">importance: 3 — reviewed: 22/06/25</i>
@@ -151,7 +151,7 @@
 
 
 >[!empty]
-> ![PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0011\|Fictionalized Entity Names]]</u> <sup class="title">NO0011</sup> <b class="title">×</b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[RESOURCE/NOTE/NO0011\|Fictionalized Entity Names]]</u> <sup class="title">NO0011</sup> <b class="title">×</b>
 > List of various entity, brand, business, organization, and group names referenced — each with fictional and real name equivalents.
 > 
 > <i class="small">importance: 2 — reviewed: 22/06/25</i>
