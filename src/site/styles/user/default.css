@@ -223,10 +223,9 @@ body {
 	}
 	
 	/* Apply custom CSS class for entry card titles */
-	u.title {
+	a.title {
 		line-height: 1em;
 		font-size: 1.5em;
-		text-decoration: none;
 	}
 
 	i.small {
