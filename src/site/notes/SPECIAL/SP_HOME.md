@@ -15,7 +15,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <a class="title">[[RESOURCE/MEMBER/MB001\|nin827]]</a> <sup class="title">MB001</sup>
+> ![RESOURCE/ASSET/ICON/MB001.png|icon](/img/user/RESOURCE/ASSET/ICON/MB001.png) <b class="title">[[RESOURCE/MEMBER/MB001\|nin827]]</b> <sup class="title">MB001</sup>
 > Hello, I like novelty stuff — interesting and intriguing. <b><br><br>project.owner | project.lead | illustrator.icon | illustrator.thumbnail | writer.story | writer.profile</b> <b><br><br>[Main Website](https://nin827.github.io/), [Tumblr](https://www.tumblr.com/nin827), [Facebook](https://www.facebook.com/nin827)</b>
 > <i class="small">aliases: Nin — importance: 3 — status: active — association: internal — reviewed: 19/06/25</i>
 
@@ -27,7 +27,7 @@
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <u class="title">[[SPECIAL/SP_NS22\|Project NS22]]</u> <sup>SP_NS22</sup>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[SPECIAL/SP_NS22\|Project NS22]]</b> <sup>SP_NS22</sup>
 > This project, __New Siam 22th Century__, or __NS22__, is a novel project involving Bangkok, Thailand, in a speculative 22th century setting involving mutual coexistence between humans and androids as the central theme. This also covers the idea of sapient AIs interweaving into human-driven society. Assume that the narrative starts on 2120s.
 > 
 > <i class="small">—— project laid out by [[RESOURCE/MEMBER/MB001\|nin827]] ——</i>
