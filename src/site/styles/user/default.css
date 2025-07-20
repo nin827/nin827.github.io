@@ -234,6 +234,7 @@ body {
 	b.title {
 		line-height: 1em;
 		font-size: 1.5em;
+		text-decoration: underline;
 	}
 
 	i.small {
