@@ -125,7 +125,7 @@ body {
 	}
 	
 	/* Set embed spacings */
-	.internal-embed, .markdown-embed {
+	.internal-embed {
 		border-left: 2px solid var(--text-accent);
 		border-right: 2px solid var(--text-accent);
 		padding-left: 0.5em;
