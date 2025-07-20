@@ -236,7 +236,7 @@ body {
 		font-size: 1.5em;
 	}
 	
-	b.title:has(+ a.internal-link) {
+	b.title a.internal-link {
 		text-decoration: underline;
 		text-decoration-color: var(--text-accent);
 	}
