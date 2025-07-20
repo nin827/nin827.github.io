@@ -226,6 +226,7 @@ body {
 	u.title {
 		line-height: 1em;
 		font-size: 1.5em;
+		text-decoration-color: var(--text-accent);
 	}
 
 	i.small {
