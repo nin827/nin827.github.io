@@ -1,3 +1,11 @@
+.theme-dark {
+	/* Setting CSS variables exclusive to dark-theme */
+	--bg1: hsl(0, 0, 5%);
+	--bg2: hsl(0, 0, 3%);
+	--bg3: hsla(0, 0, 7%, 10%);
+	
+}
+
 body {
 	/* IMPORTANT: Use "Minimal" (dark) as base theme */
 	
@@ -13,11 +21,6 @@ body {
 	--font-monospace-default: "Noto Sans Mono";
 	--font-monospace-theme: "Noto Sans Mono";
 
-	/* Change background color */
-	--bg1: hsl(0, 0, 5%);
-	--bg2: hsl(0, 0, 3%);
-	--bg3: hsla(0, 0, 7%, 10%);
-	
 	/* Default font size*/
 	--font-text-size: 12px;
 	--font-ui-smaller: 10px;
@@ -34,7 +37,7 @@ body {
 	--accent-s: 88%;
 	--accent-l: 66%;
 	
-	--text-accent: #8a5cf5 !important;
+	/* --text-accent: #8a5cf5 !important; */
 	strong {color: var(--text-normal);}
 	a {color: var(--text-accent);}
 	h1 {color: var(--text-accent);}
