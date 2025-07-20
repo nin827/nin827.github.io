@@ -2,159 +2,56 @@
 {"dg-publish":true,"permalink":"/special/sp-nsno/","title":"NS22 Note Index","tags":["-special"]}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0001/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0001\|nin827's Project NS22 Remarks]]</b> <sup class="title">NO0001</sup> <b>×</b>
-> This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.
-> 
-> <i class="small">importance: 3 — reviewed: 21/06/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0002/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0002\|GenAIs & LLMs Purpose and Nuances]]</b> <sup class="title">NO0002</sup> <b> </b>
-> Notes regarding GenAIs & LLMs usage, scenario, ethics, and nuances — nin827's remarks being generally fine, as long content is not monetized nor credited, alongside with responsible and moderate usage of the tool.
-> 
-> <i class="small">importance: 2 — reviewed: 06/07/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0003/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0003\|Character Group Sets]]</b> <sup class="title">NO0003</sup> <b> </b>
-> Meta document to list character set by each main book series involvement, relevancy, and organization.
-> 
-> <i class="small">importance: 1 — reviewed: 22/06/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0004/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0004\|NS22 Resources & Materials]]</b> <sup class="title">NO0004</sup> <b> </b>
-> Miscellaneous meta remarks on resource management of the Project NS22 vault and website.
-> 
-> <i class="small">importance: 3 — reviewed: 22/06/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0005/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0005\|Media Literacy 101]]</b> <sup class="title">NO0005</sup> <b> </b>
-> Note lists regarding basics of media literacy 101 — focusing on reading comprehension, reading context, fiction—reality separation, and understanding biases/perspectives.
-> 
-> <i class="small">importance: 1 — reviewed: 22/06/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0006/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0006\|Nin's Formatting Style]]</b> <sup class="title">NO0006</sup> <b> </b>
-> Meta document detailing nin827's personal writing, punctuation usage, and formating style used for the Project NS22.
-> 
-> <i class="small">importance: 1 — reviewed: 22/06/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0007/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0007\|Graphics Production Procedures]]</b> <sup class="title">NO0007</sup> <b> </b>
-> Meta document about project production note related to graphics — image, illustrations, visualizing, styling, etc.
-> 
-> <i class="small">importance: 1 — reviewed: unknown</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0008/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0008\|Text Media Procedures]]</b> <sup class="title">NO0008</sup> <b> </b>
-> Meta document about project production note related to text — writing, narration, tone, storytelling, etc.
-> 
-> <i class="small">importance: 1 — reviewed: 17/07/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0009/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]]</b> <sup class="title">NO0009</sup> <b> </b>
-> Characters' legal name must follow according to their national/cultural ordering format. Use `Mr.` or `Ms.` (ignoring `Mrs.`), — first name uses Sentence case, middle name uses Sentence case with "quotes", and last name uses UPPER CASE.
-> 
-> <i class="small">importance: `=this.importance` — reviewed: 17/07/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0010/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0010\|Integrity, Consistency, Trust]]</b> <sup class="title">NO0010</sup> <b> </b>
-> Meta—personal document to maintain integrity, consistency, and trust — all in the name of cultivating long-term trust and strong relation with audience.
-> 
-> <i class="small">importance: 3 — reviewed: 22/06/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0004/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0004\|NS22 Resources & Materials]]</b> <sup class="title">NO0004</sup> <b> </b>
-> Miscellaneous meta remarks on resource management of the Project NS22 vault and website.
-> 
-> <i class="small">importance: 3 — reviewed: 22/06/25</i>
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/note/no-0011/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0011\|Fictionalized Entity Names]]</b> <sup class="title">NO0011</sup> <b>×</b>
-> List of various entity, brand, business, organization, and group names referenced — each with fictional and real name equivalents.
-> 
-> <i class="small">importance: 2 — reviewed: 22/06/25</i>
-
-</div></div>
-
+<p><span><span alt="RESOURCE/NOTE/NO0001.md > ^profile" src="RESOURCE/NOTE/NO0001.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0001.md" data-href="RESOURCE/NOTE/NO0001.md" href="RESOURCE/NOTE/NO0001.md" class="internal-link" target="_blank" rel="noopener nofollow">nin827's Project NS22 Remarks</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0001</span></span></sup> <b><span class="dataview dataview-inline-query"><span>×</span></span></b><br>
+<span class="dataview dataview-inline-query"><span>This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>3</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>21/06/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0002.md > ^profile" src="RESOURCE/NOTE/NO0002.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0002.md" data-href="RESOURCE/NOTE/NO0002.md" href="RESOURCE/NOTE/NO0002.md" class="internal-link" target="_blank" rel="noopener nofollow">GenAIs &amp; LLMs Purpose and Nuances</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0002</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Notes regarding GenAIs &amp; LLMs usage, scenario, ethics, and nuances — nin827's remarks being generally fine, as long content is not monetized nor credited, alongside with responsible and moderate usage of the tool.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>2</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>06/07/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0003.md > ^profile" src="RESOURCE/NOTE/NO0003.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0003.md" data-href="RESOURCE/NOTE/NO0003.md" href="RESOURCE/NOTE/NO0003.md" class="internal-link" target="_blank" rel="noopener nofollow">Character Group Sets</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0003</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Meta document to list character set by each main book series involvement, relevancy, and organization.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>1</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>22/06/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0004.md > ^profile" src="RESOURCE/NOTE/NO0004.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0004.md" data-href="RESOURCE/NOTE/NO0004.md" href="RESOURCE/NOTE/NO0004.md" class="internal-link" target="_blank" rel="noopener nofollow">NS22 Resources &amp; Materials</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0004</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Miscellaneous meta remarks on resource management of the Project NS22 vault and website.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>3</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>22/06/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0005.md > ^profile" src="RESOURCE/NOTE/NO0005.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0005.md" data-href="RESOURCE/NOTE/NO0005.md" href="RESOURCE/NOTE/NO0005.md" class="internal-link" target="_blank" rel="noopener nofollow">Media Literacy 101</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0005</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Note lists regarding basics of media literacy 101 — focusing on reading comprehension, reading context, fiction—reality separation, and understanding biases/perspectives.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>1</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>22/06/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0006.md > ^profile" src="RESOURCE/NOTE/NO0006.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0006.md" data-href="RESOURCE/NOTE/NO0006.md" href="RESOURCE/NOTE/NO0006.md" class="internal-link" target="_blank" rel="noopener nofollow">Nin's Formatting Style</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0006</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Meta document detailing nin827's personal writing, punctuation usage, and formating style used for the Project NS22.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>1</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>22/06/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0007.md > ^profile" src="RESOURCE/NOTE/NO0007.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0007.md" data-href="RESOURCE/NOTE/NO0007.md" href="RESOURCE/NOTE/NO0007.md" class="internal-link" target="_blank" rel="noopener nofollow">Graphics Production Procedures</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0007</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Meta document about project production note related to graphics — image, illustrations, visualizing, styling, etc.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>1</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>unknown</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0008.md > ^profile" src="RESOURCE/NOTE/NO0008.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0008.md" data-href="RESOURCE/NOTE/NO0008.md" href="RESOURCE/NOTE/NO0008.md" class="internal-link" target="_blank" rel="noopener nofollow">Text Media Procedures</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0008</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Meta document about project production note related to text — writing, narration, tone, storytelling, etc.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>1</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>17/07/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0009.md > ^profile" src="RESOURCE/NOTE/NO0009.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0009.md" data-href="RESOURCE/NOTE/NO0009.md" href="RESOURCE/NOTE/NO0009.md" class="internal-link" target="_blank" rel="noopener nofollow">Legal Naming Schemes</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0009</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Characters' legal name must follow according to their national/cultural ordering format. Use <code>Mr.</code> or <code>Ms.</code> (ignoring <code>Mrs.</code>), — first name uses Sentence case, middle name uses Sentence case with "quotes", and last name uses UPPER CASE.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>0</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>17/07/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0010.md > ^profile" src="RESOURCE/NOTE/NO0010.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0010.md" data-href="RESOURCE/NOTE/NO0010.md" href="RESOURCE/NOTE/NO0010.md" class="internal-link" target="_blank" rel="noopener nofollow">Integrity, Consistency, Trust</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0010</span></span></sup> <b><span class="dataview dataview-inline-query"><span></span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Meta—personal document to maintain integrity, consistency, and trust — all in the name of cultivating long-term trust and strong relation with audience.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>3</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>22/06/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0011.md > ^profile" src="RESOURCE/NOTE/NO0011.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0011.md" data-href="RESOURCE/NOTE/NO0011.md" href="RESOURCE/NOTE/NO0011.md" class="internal-link" target="_blank" rel="noopener nofollow">Fictionalized Entity Names</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0011</span></span></sup> <b><span class="dataview dataview-inline-query"><span>×</span></span></b><br>
+<span class="dataview dataview-inline-query"><span>List of various entity, brand, business, organization, and group names referenced — each with fictional and real name equivalents.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>2</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>22/06/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0012.md > ^profile" src="RESOURCE/NOTE/NO0012.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0012.md" data-href="RESOURCE/NOTE/NO0012.md" href="RESOURCE/NOTE/NO0012.md" class="internal-link" target="_blank" rel="noopener nofollow">Media Preference &amp; Project Concept Survey 2025 July</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0012</span></span></sup> <b><span class="dataview dataview-inline-query"><span>×</span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Comprehensive statistical analysis and data visualization involving Laos (and some international) users regarding creative media preferences, consumption habits, and opinions of project ideas. The survey is conducted on July 2025.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>2</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>11/07/25</span></span></i></p>
+</div></div></div></span></span></p><p><span><span alt="RESOURCE/NOTE/NO0013.md > ^profile" src="RESOURCE/NOTE/NO0013.md#^profile" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="empty" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Empty</div></div><div class="callout-content">
+<p dir="auto"><span class="dataview dataview-inline-query"><span><span alt="icon" src="RESOURCE/ASSET/OTHER/PlaceholderIcon.png" class="internal-embed media-embed image-embed is-loaded"><img alt="icon" src="app://737344e01c7e87c7e818f501c385b037c366/D:/Files/Obsidian/nin827_project/RESOURCE/ASSET/OTHER/PlaceholderIcon.png?1748277662985"></span></span></span> <b class="title"><span class="dataview dataview-inline-query"><span><a data-tooltip-position="top" aria-label="RESOURCE/NOTE/NO0013.md" data-href="RESOURCE/NOTE/NO0013.md" href="RESOURCE/NOTE/NO0013.md" class="internal-link" target="_blank" rel="noopener nofollow">Activities, Milestones, Contributions</a></span></span></b> <sup class="title"><span class="dataview dataview-inline-query"><span>NO0013</span></span></sup> <b><span class="dataview dataview-inline-query"><span>×</span></span></b><br>
+<span class="dataview dataview-inline-query"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl.</span></span></p>
+<p dir="auto"><i class="small">importance: <span class="dataview dataview-inline-query"><span>3</span></span> — reviewed: <span class="dataview dataview-inline-query"><span>unknown</span></span></i></p>
+</div></div></div></span></span></p>

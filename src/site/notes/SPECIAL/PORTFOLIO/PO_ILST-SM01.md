@@ -16,7 +16,7 @@
 
 ![PICTURE_Dove-standing-on-a-rock_SAMPLE_cg003_dt2208.png|sample2](/img/user/RESOURCE/ASSET/ARTWORK/OTHER/PICTURE_Dove-standing-on-a-rock_SAMPLE_cg003_dt2208.png)
 
-![PICTURE_Art-practice-challenge-1001_THUMBNAIL_xPractice.png|sample4](/img/user/RESOURCE/ASSET/ARTWORK/OTHER/PICTURE_Art-practice-challenge-1001_THUMBNAIL_xPractice.png)
+![PICTURE_Art-practice-challenge-1001_SAMPLE_xPractice.png|sample4](/img/user/RESOURCE/ASSET/ARTWORK/OTHER/PICTURE_Art-practice-challenge-1001_SAMPLE_xPractice.png)
 
 ![PICTURE_Hand-construction-and-decomposition_SAMPLE_cg003_dt2211.png|sample3](/img/user/RESOURCE/ASSET/ARTWORK/OTHER/PICTURE_Hand-construction-and-decomposition_SAMPLE_cg003_dt2211.png)
 
