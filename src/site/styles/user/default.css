@@ -151,6 +151,7 @@ body {
 	div.callout-content {
 		margin-top: 0rem;
 		margin-bottom: 0rem;
+		font-size: 1em;
 	}
 	
 	/* Add callout title top margin */
