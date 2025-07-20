@@ -146,12 +146,16 @@ body {
 		height: 20px !important;
 		width: 20px !important;
 	}
+	
+	/* Match font size in callouts */
+	div.callout {
+		font-size: 1em;
+	}
 
 	/* Reduce div callout padding to compensate for p margin */
 	div.callout-content {
 		margin-top: 0rem;
 		margin-bottom: 0rem;
-		font-size: 1em;
 	}
 	
 	/* Add callout title top margin */
