@@ -223,7 +223,7 @@ body {
 	}
 	
 	/* Apply custom CSS class for entry card titles */
-	a.title {
+	b.title {
 		line-height: 1em;
 		font-size: 1.5em;
 		text-decoration: underline;
