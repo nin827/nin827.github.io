@@ -1,5 +1,5 @@
 body {
-	/* IMPORTANT: Use "Minimal" as base theme */
+	/* IMPORTANT: Use "Minimal" (dark) as base theme */
 	
 	/* NOTE: Fix navbar overlap soon, issue only applies to desktop browser for some reason */
 
@@ -14,11 +14,9 @@ body {
 	--font-monospace-theme: "Noto Sans Mono";
 
 	/* Change background color */
-	.theme-dark {
-		--bg1: hsl(0, 0, 5%);
-		--bg2: hsl(0, 0, 3%);
-		--bg3: hsla(0, 0, 7%, 10%);
-	}
+	--bg1: hsl(0, 0, 5%);
+	--bg2: hsl(0, 0, 3%);
+	--bg3: hsla(0, 0, 7%, 10%);
 	
 	/* Default font size*/
 	--font-text-size: 12px;
