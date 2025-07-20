@@ -125,7 +125,7 @@ body {
 	}
 	
 	/* Set embed spacings */
-	.internal-embed { /* Reserve class target: .markdown-embed */
+	.internal-embed, .markdown-embed {
 		border-left: 2px solid var(--text-accent);
 		border-right: 2px solid var(--text-accent);
 		padding-left: 0.5em;
@@ -154,14 +154,21 @@ body {
 
 	/* Reduce div callout padding to compensate for p margin */
 	div.callout-content {
-		margin-top: 0rem;
-		margin-bottom: 0rem;
+		margin-top: 0em;
+		margin-bottom: 0em;
 	}
+	
+	/* Fix div markdown embed padding */
+	div.markdown-embed {
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+	}
+	
 	
 	/* Add callout title top margin */
 	div.callout-title {
-		margin-top: 0.5rem;
-		margin-bottom: 0.5rem;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
 	}
 	
 		.callout[data-callout="navigation"] {
