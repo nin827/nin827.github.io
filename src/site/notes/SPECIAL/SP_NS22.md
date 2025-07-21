@@ -188,10 +188,10 @@ _Read more at [[RESOURCE/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 
 
 >[!empty]
-> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0001\|nin827's Project NS22 Remarks]]</b> <sup class="title">NO0001</sup> <b>×</b>
+> ![RESOURCE/ASSET/OTHER/PlaceholderIcon.png|icon](/img/user/RESOURCE/ASSET/OTHER/PlaceholderIcon.png) <b class="title">[[RESOURCE/NOTE/NO0001\|nin827's Project NS22]]</b> <sup class="title">NO0001</sup> <b>×</b>
 > This is written as my — nin827 — perspectives, visions, experiences, thoughts, and directions with the Project NS22 — laying out in detail on what, which, why, and how should it be done.
 > 
-> <i class="small">importance: 3 — reviewed: 21/06/25</i>
+> <i class="small">importance: 3 — reviewed: 21/07/25</i>
 
 </div></div>
 
