@@ -13,7 +13,7 @@
 - [[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]] — NO0009 ↑⁰ 17/07/25<br>Characters' legal name must follow according to their national/cultural ordering format. Use `Mr.` or `Ms.` (ignoring `Mrs.`), — first name uses Sentence case, middle name uses Sentence case with "quotes", and last name uses UPPER CASE.
 - [[RESOURCE/NOTE/NO0010\|Integrity, Consistency, Trust]] — NO0010 ↑³ 22/06/25<br>Meta—personal document to maintain integrity, consistency, and trust — all in the name of cultivating long-term trust and strong relation with audience.
 - [[RESOURCE/NOTE/NO0011\|Fictionalized Entity Names]] — NO0011 ↑² 22/06/25 ×<br>List of various entity, brand, business, organization, and group names referenced — each with fictional and real name equivalents.
-- [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] — NO0012 ↑¹ 21/07/25<br>Comprehensive statistical analysis and data visualization involving Laos (and some international) users regarding creative media preferences, consumption habits, and opinions of project ideas. The survey is conducted on July 2025.
+- [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] — NO0012 ↑¹ 22/07/25<br>Comprehensive statistical analysis and data visualization involving Laos (and some international) users regarding creative media preferences, consumption habits, and opinions of project ideas. The survey is conducted on July 2025.
 - [[RESOURCE/NOTE/NO0013\|Movements and Contributions]] — NO0013 ↑³ 21/07/25<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent semper vulputate tortor pellentesque porttitor. In accumsan, lorem non gravida dictum, augue risus elementum mi, eu posuere libero justo quis nisl.
 
 { .block-language-dataview}
