@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/special/sp-pflo/","title":"Portfolio","tags":["-special","-portfolio","-member/nin827"]}
 ---
 
-- [[SPECIAL/PORTFOLIO/PO_ILST-TN01\|Illustration: Thumbnails]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-TN02\|Illustration: Thumbnails 2]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-SM01\|Illustration: Sample]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-ST01\|Illustration: Study]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-BN01\|Illustration: Bonus]]
-- [[SPECIAL/PORTFOLIO/PO_PTGP\|Photography]]
+- [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]]
+- [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnails 2]]
+- [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]]
+- [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]]
+- [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]]
+- [[PO_PT_\|Photography]]
 { #index}
 
 

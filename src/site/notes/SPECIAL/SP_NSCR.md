@@ -9,7 +9,7 @@
 - [[MATERIAL/CHARACTER/CR005\|Ria]] — CR005 ↑³  ×<br>Ria — a socialite, young android woman, "---" — works as a brand promoter under her an investment firm, and enjoys playing tennis in her pastime, and thrives in social events.
 - [[MATERIAL/CHARACTER/CR006\|Jo]] — CR006 ↑³  ×<br>Jo — an eloquent, young man, "refined pâtissier" — works as an assistant manager and a public speaker for a family-owned department store, enjoys various luxury indulgences, and enjoys cooking up fine fancy meals.
 - [[MATERIAL/CHARACTER/CR031\|Four]] — CR031 ↑³ <br>Four — an indifferent, security guard bot, "reliable guard" — serves as a 24/7 security guard for the local residents residing in one beach tourism town; provides constant surveillance and security, and can assist duties with authorities; occasionally enjoys watching movies and televisions.
-- [[MATERIAL/CHARACTER/CR044\|Ella]] — CR044 ?  ×<br>Ella—a business-savvy, adult woman, "graceful singer"; owned and founded a successful grill bar & restaurant by herself with a help from her fiancé, also has a side career as a small influencer.
+- [[MATERIAL/CHARACTER/CR044\|Ella]] — CR044 ↑³  ×<br>Ella—a business-savvy, adult woman, "graceful singer"; owned and founded a successful grill bar & restaurant by herself with a help from her fiancé, also has a side career as a small influencer.
 - [[MATERIAL/CHARACTER/CR073\|Beanie]] — CR073 ↑⁰ <br>Beanie — a talkative, young male parrot, "residential parrot" — a parrot living in a beach tourism town; enjoys talking with locals and tourists passing by for fun; virtually does nothing but observe, may gossip and relay talks to other residents.
 
 { .block-language-dataview}

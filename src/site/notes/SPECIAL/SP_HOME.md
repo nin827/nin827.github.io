@@ -37,6 +37,56 @@
 
 Hello, this website is currently under construction. More content to come slowly, but surely.
 
+# Updates
+
+- [[MATERIAL/ARTICLE/AR008\|Bangkok Waterworks Network]] — AR008 ↑³ ×
+- [[MATERIAL/CHARACTER/CR002\|Clyde]] — CR002 ↑³ ﹒
+- [[MATERIAL/CHARACTER/CR004\|Simon]] — CR004 ↑³ ﹒
+- [[MATERIAL/CHARACTER/CR005\|Ria]] — CR005 ↑³ ×
+- [[MATERIAL/CHARACTER/CR006\|Jo]] — CR006 ↑³ ×
+- [[MATERIAL/CHARACTER/CR031\|Four]] — CR031 ↑³ ﹒
+- [[MATERIAL/CHARACTER/CR044\|Ella]] — CR044 ↑³ ×
+- [[MATERIAL/CHARACTER/CR073\|Beanie]] — CR073 ↑⁰ ﹒
+- [[MATERIAL/ELEMENT/EL000060\|Avian Intelligence Adaptation]] — EL000060 ↑⁰ ×
+- [[MATERIAL/ELEMENT/EL000061\|Thailand Culture and Society]] — EL000061 ↑¹ ×
+- [[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]] — NO0009 ↑⁰ 22/07/25﹒
+- [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] — NO0012 ↑¹ 22/07/25﹒
+- [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]] — PO_IL_BN01 ? 22/07/25﹒
+- [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]] — PO_IL_SM01 ? 22/07/25﹒
+- [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]] — PO_IL_ST01 ? 22/07/25﹒
+- [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]] — PO_IL_TN01 ? 22/07/25﹒
+- [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnail 2]] — PO_IL_TN02 ? 22/07/25﹒
+- [[SPECIAL/PORTFOLIO/PO_PT_AU01\|Photography: Assumption University (Premises)]] — PO_PT_AU01 ? 22/07/25﹒
+- [[SPECIAL/PORTFOLIO/PO_PT_AU02\|Photography: Assumption University (Scenery)]] — PO_PT_AU02 ? 22/07/25﹒
+- [[RESOURCE/NOTE/NO0001\|nin827's Project NS22]] — NO0001 ↑³ 21/07/25×
+
+{ .block-language-dataview}
+
+| title                                                                                           | importance | review   | complete |
+| ----------------------------------------------------------------------------------------------- | ---------- | -------- | -------- |
+| [[MATERIAL/ARTICLE/AR008\|Bangkok Waterworks Network]] [AR008]                               | 3          |          | ×        |
+| [[MATERIAL/CHARACTER/CR002\|Clyde]] [CR002]                                                  | 3          |          | ✓        |
+| [[MATERIAL/CHARACTER/CR004\|Simon]] [CR004]                                                  | 3          |          | ✓        |
+| [[MATERIAL/CHARACTER/CR005\|Ria]] [CR005]                                                    | 3          |          | ×        |
+| [[MATERIAL/CHARACTER/CR006\|Jo]] [CR006]                                                     | 3          |          | ×        |
+| [[MATERIAL/CHARACTER/CR031\|Four]] [CR031]                                                   | 3          |          | ✓        |
+| [[MATERIAL/CHARACTER/CR044\|Ella]] [CR044]                                                   | 3          |          | ×        |
+| [[MATERIAL/CHARACTER/CR073\|Beanie]] [CR073]                                                 | 0          |          | ✓        |
+| [[MATERIAL/ELEMENT/EL000060\|Avian Intelligence Adaptation]] [EL000060]                      | 0          |          | ×        |
+| [[MATERIAL/ELEMENT/EL000061\|Thailand Culture and Society]] [EL000061]                       | 1          |          | ×        |
+| [[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]] [NO0009]                                      | 0          | 22/07/25 | ✓        |
+| [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] [NO0012]                | 1          | 22/07/25 | ✓        |
+| [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]] [PO_IL_BN01]                           | \-         | 22/07/25 |          |
+| [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]] [PO_IL_SM01]                          | \-         | 22/07/25 |          |
+| [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]] [PO_IL_ST01]                           | \-         | 22/07/25 |          |
+| [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]] [PO_IL_TN01]                      | \-         | 22/07/25 |          |
+| [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnail 2]] [PO_IL_TN02]                     | \-         | 22/07/25 |          |
+| [[SPECIAL/PORTFOLIO/PO_PT_AU01\|Photography: Assumption University (Premises)]] [PO_PT_AU01] | \-         | 22/07/25 |          |
+| [[SPECIAL/PORTFOLIO/PO_PT_AU02\|Photography: Assumption University (Scenery)]] [PO_PT_AU02]  | \-         | 22/07/25 |          |
+| [[RESOURCE/NOTE/NO0001\|nin827's Project NS22]] [NO0001]                                     | 3          | 21/07/25 | ×        |
+
+{ .block-language-dataview}
+
 # Portfolio
 
 ## Index
@@ -49,12 +99,12 @@ Hello, this website is currently under construction. More content to come slowly
 
 
 
-- [[SPECIAL/PORTFOLIO/PO_ILST-TN01\|Illustration: Thumbnails]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-TN02\|Illustration: Thumbnails 2]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-SM01\|Illustration: Sample]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-ST01\|Illustration: Study]]
-- [[SPECIAL/PORTFOLIO/PO_ILST-BN01\|Illustration: Bonus]]
-- [[SPECIAL/PORTFOLIO/PO_PTGP\|Photography]]
+- [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]]
+- [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnails 2]]
+- [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]]
+- [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]]
+- [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]]
+- [[PO_PT_\|Photography]]
 
 </div></div>
 
