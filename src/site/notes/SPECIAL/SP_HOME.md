@@ -39,53 +39,30 @@ Hello, this website is currently under construction. More content to come slowly
 
 # Updates
 
-- [[MATERIAL/ARTICLE/AR008\|Bangkok Waterworks Network]] — AR008 ↑³ ×
-- [[MATERIAL/CHARACTER/CR002\|Clyde]] — CR002 ↑³ ﹒
-- [[MATERIAL/CHARACTER/CR004\|Simon]] — CR004 ↑³ ﹒
-- [[MATERIAL/CHARACTER/CR005\|Ria]] — CR005 ↑³ ×
-- [[MATERIAL/CHARACTER/CR006\|Jo]] — CR006 ↑³ ×
-- [[MATERIAL/CHARACTER/CR031\|Four]] — CR031 ↑³ ﹒
-- [[MATERIAL/CHARACTER/CR044\|Ella]] — CR044 ↑³ ×
-- [[MATERIAL/CHARACTER/CR073\|Beanie]] — CR073 ↑⁰ ﹒
-- [[MATERIAL/ELEMENT/EL000060\|Avian Intelligence Adaptation]] — EL000060 ↑⁰ ×
-- [[MATERIAL/ELEMENT/EL000061\|Thailand Culture and Society]] — EL000061 ↑¹ ×
-- [[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]] — NO0009 ↑⁰ 22/07/25﹒
-- [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] — NO0012 ↑¹ 22/07/25﹒
-- [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]] — PO_IL_BN01 ? 22/07/25﹒
-- [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]] — PO_IL_SM01 ? 22/07/25﹒
-- [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]] — PO_IL_ST01 ? 22/07/25﹒
-- [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]] — PO_IL_TN01 ? 22/07/25﹒
-- [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnail 2]] — PO_IL_TN02 ? 22/07/25﹒
-- [[SPECIAL/PORTFOLIO/PO_PT_AU01\|Photography: Assumption University (Premises)]] — PO_PT_AU01 ? 22/07/25﹒
-- [[SPECIAL/PORTFOLIO/PO_PT_AU02\|Photography: Assumption University (Scenery)]] — PO_PT_AU02 ? 22/07/25﹒
-- [[RESOURCE/NOTE/NO0001\|nin827's Project NS22]] — NO0001 ↑³ 21/07/25×
+- [[SPECIAL/SP_PFLO\|Portfolio]] [SP_PFLO ? 23/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]] [PO_IL_ST01 ? 22/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnail 2]] [PO_IL_TN02 ? 22/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_PT_AU01\|Photography: Assumption University 1]] [PO_PT_AU01 ? 22/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_PT_AU03\|Photography: Assumption University 3]] [PO_PT_AU03 ? 22/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]] [PO_IL_TN01 ? 22/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]] [PO_IL_BN01 ? 22/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]] [PO_IL_SM01 ? 22/07/25 ~]
+- [[SPECIAL/PORTFOLIO/PO_PT_AU02\|Photography: Assumption University 2]] [PO_PT_AU02 ? 22/07/25 ~]
+- [[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]] [NO0009 ↑⁰ 22/07/25 ✓]
+- [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] [NO0012 ↑¹ 22/07/25 ✓]
+- [[RESOURCE/NOTE/NO0013\|Movements and Contributions]] [NO0013 ↑³ 21/07/25 ✓]
+- [[RESOURCE/NOTE/NO0001\|nin827's Project NS22]] [NO0001 ↑³ 21/07/25 ×]
+- [[RESOURCE/MEMBER/MB001\|nin827]] [MB001 ↑³ 20/07/25 ~]
+- [[MATERIAL/CHARACTER/CR001\|Lily]] [CR001 ↑³ 19/07/25 ✓]
+- [[RESOURCE/REFERENCE/RF00002\|NS22 Art Style and Specifics]] [RF00002 ↑⁰ 19/07/25 ✓]
+- [[MATERIAL/ELEMENT/EL000004\|Crop-based Biofuel]] [EL000004 ↑¹ 18/07/25 ✓]
+- [[MATERIAL/ELEMENT/EL000003\|Plastic-eating Bacteria]] [EL000003 ↑⁰ 17/07/25 ✓]
+- [[RESOURCE/NOTE/NO0008\|Text Media Procedures]] [NO0008 ↑¹ 17/07/25 ✓]
+- [[RESOURCE/MISCELLANEOUS/NO0012_LA\|ການສໍາຫຼວດຄວາມມັກ ແລະ ແນວຄວາມຄິດ; ລາວ ກໍລະກົດ 2025]] [NO0012_LA ↑² 11/07/25 ×]
 
 { .block-language-dataview}
 
-| title                                                                                           | importance | review   | complete |
-| ----------------------------------------------------------------------------------------------- | ---------- | -------- | -------- |
-| [[MATERIAL/ARTICLE/AR008\|Bangkok Waterworks Network]] [AR008]                               | 3          |          | ×        |
-| [[MATERIAL/CHARACTER/CR002\|Clyde]] [CR002]                                                  | 3          |          | ✓        |
-| [[MATERIAL/CHARACTER/CR004\|Simon]] [CR004]                                                  | 3          |          | ✓        |
-| [[MATERIAL/CHARACTER/CR005\|Ria]] [CR005]                                                    | 3          |          | ×        |
-| [[MATERIAL/CHARACTER/CR006\|Jo]] [CR006]                                                     | 3          |          | ×        |
-| [[MATERIAL/CHARACTER/CR031\|Four]] [CR031]                                                   | 3          |          | ✓        |
-| [[MATERIAL/CHARACTER/CR044\|Ella]] [CR044]                                                   | 3          |          | ×        |
-| [[MATERIAL/CHARACTER/CR073\|Beanie]] [CR073]                                                 | 0          |          | ✓        |
-| [[MATERIAL/ELEMENT/EL000060\|Avian Intelligence Adaptation]] [EL000060]                      | 0          |          | ×        |
-| [[MATERIAL/ELEMENT/EL000061\|Thailand Culture and Society]] [EL000061]                       | 1          |          | ×        |
-| [[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]] [NO0009]                                      | 0          | 22/07/25 | ✓        |
-| [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] [NO0012]                | 1          | 22/07/25 | ✓        |
-| [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]] [PO_IL_BN01]                           | \-         | 22/07/25 |          |
-| [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]] [PO_IL_SM01]                          | \-         | 22/07/25 |          |
-| [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]] [PO_IL_ST01]                           | \-         | 22/07/25 |          |
-| [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]] [PO_IL_TN01]                      | \-         | 22/07/25 |          |
-| [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnail 2]] [PO_IL_TN02]                     | \-         | 22/07/25 |          |
-| [[SPECIAL/PORTFOLIO/PO_PT_AU01\|Photography: Assumption University (Premises)]] [PO_PT_AU01] | \-         | 22/07/25 |          |
-| [[SPECIAL/PORTFOLIO/PO_PT_AU02\|Photography: Assumption University (Scenery)]] [PO_PT_AU02]  | \-         | 22/07/25 |          |
-| [[RESOURCE/NOTE/NO0001\|nin827's Project NS22]] [NO0001]                                     | 3          | 21/07/25 | ×        |
-
-{ .block-language-dataview}
+> Only up to 20 are listed at a time.
 
 # Portfolio
 
@@ -104,7 +81,9 @@ Hello, this website is currently under construction. More content to come slowly
 - [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]]
 - [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]]
 - [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]]
-- [[PO_PT_\|Photography]]
+- [[SPECIAL/PORTFOLIO/PO_PT_AU01\|Photography: Assumption University 1]]
+- [[SPECIAL/PORTFOLIO/PO_PT_AU02\|Photography: Assumption University 2]]
+- [[SPECIAL/PORTFOLIO/PO_PT_AU03\|Photography: Assumption University 3]]
 
 </div></div>
 
@@ -116,12 +95,6 @@ Hello, this website is currently under construction. More content to come slowly
 
 
 
-![PICTURE_Central-side-street_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Central-side-street_THUMBNAIL_dt2302.png)
-![PICTURE_Suburban-apartment-balcony-view_THUMBNAIL_dt2408.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Suburban-apartment-balcony-view_THUMBNAIL_dt2408.png)
-![PICTURE_Ella-reminiscing-former-partner_THUMBNAIL_cg003-dt2501-scElla.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Ella-reminiscing-former-partner_THUMBNAIL_cg003-dt2501-scElla.png)
-![PICTURE_Rural-canal-bridge_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Rural-canal-bridge_THUMBNAIL_dt2302.png)
-![PICTURE_Counterattack-anticipation_THUMBNAIL_crVin-dt2206.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Counterattack-anticipation_THUMBNAIL_crVin-dt2206.png)
-![PICTURE_Park-entrace-waiting_THUMBNAIL_dt2302.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_Park-entrace-waiting_THUMBNAIL_dt2302.png)
-![PICTURE_The-skeletal-orchestra-conductor_THUMBNAIL-cg031-dt2504.png|thumbnail](/img/user/RESOURCE/ASSET/ARTWORK/PICTURE_The-skeletal-orchestra-conductor_THUMBNAIL-cg031-dt2504.png)
+![PO_PT_AU01_07.jpg|thumbnail](/img/user/RESOURCE/ASSET/PHOTO/PO_PT_AU01_07.jpg)
 
 </div></div>
