@@ -35,34 +35,7 @@
 </div></div>
 
 
-Hello, this website is currently under construction. More content to come slowly, but surely.
-
-# Updates
-
-- [[SPECIAL/SP_PFLO\|Portfolio]] [SP_PFLO ? 23/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_IL_ST01\|Illustration: Study]] [PO_IL_ST01 ? 22/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_IL_TN02\|Illustration: Thumbnail 2]] [PO_IL_TN02 ? 22/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_PT_AU01\|Photography: Assumption University 1]] [PO_PT_AU01 ? 22/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_PT_AU03\|Photography: Assumption University 3]] [PO_PT_AU03 ? 22/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_IL_TN01\|Illustration: Thumbnails]] [PO_IL_TN01 ? 22/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_IL_BN01\|Illustration: Bonus]] [PO_IL_BN01 ? 22/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_IL_SM01\|Illustration: Sample]] [PO_IL_SM01 ? 22/07/25 ~]
-- [[SPECIAL/PORTFOLIO/PO_PT_AU02\|Photography: Assumption University 2]] [PO_PT_AU02 ? 22/07/25 ~]
-- [[RESOURCE/NOTE/NO0009\|Legal Naming Schemes]] [NO0009 ↑⁰ 22/07/25 ✓]
-- [[RESOURCE/NOTE/NO0012\|Preference & Concept Survey; Lao 2025 July]] [NO0012 ↑¹ 22/07/25 ✓]
-- [[RESOURCE/NOTE/NO0013\|Movements and Contributions]] [NO0013 ↑³ 21/07/25 ✓]
-- [[RESOURCE/NOTE/NO0001\|nin827's Project NS22]] [NO0001 ↑³ 21/07/25 ×]
-- [[RESOURCE/MEMBER/MB001\|nin827]] [MB001 ↑³ 20/07/25 ~]
-- [[MATERIAL/CHARACTER/CR001\|Lily]] [CR001 ↑³ 19/07/25 ✓]
-- [[RESOURCE/REFERENCE/RF00002\|NS22 Art Style and Specifics]] [RF00002 ↑⁰ 19/07/25 ✓]
-- [[MATERIAL/ELEMENT/EL000004\|Crop-based Biofuel]] [EL000004 ↑¹ 18/07/25 ✓]
-- [[MATERIAL/ELEMENT/EL000003\|Plastic-eating Bacteria]] [EL000003 ↑⁰ 17/07/25 ✓]
-- [[RESOURCE/NOTE/NO0008\|Text Media Procedures]] [NO0008 ↑¹ 17/07/25 ✓]
-- [[RESOURCE/MISCELLANEOUS/NO0012_LA\|ການສໍາຫຼວດຄວາມມັກ ແລະ ແນວຄວາມຄິດ; ລາວ ກໍລະກົດ 2025]] [NO0012_LA ↑² 11/07/25 ×]
-
-{ .block-language-dataview}
-
-> Only up to 20 are listed at a time.
+Hello, this website is currently under progress — website constructed, but still lacks content, more to come soon.
 
 # Portfolio
 
