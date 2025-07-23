@@ -222,7 +222,14 @@ _Read more at [[RESOURCE/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 </div></div>
 
 
-# Contributors
+# Reference
+
+>[!navigation] Navigation: NS22 Reference Index
+> To see all notes related to the project, please go to [[SPECIAL/SP_NSRF\|NS22 Reference Index]].
+
+# Members
+
+## Internal
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/member/mb-001/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -248,3 +255,19 @@ _Read more at [[RESOURCE/NOTE/NO0001\|nin827's Project NS22 Remarks]] for more d
 
 </div></div>
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resource/member/mb-003/#profile" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!empty]
+> ![RESOURCE/ASSET/ICON/MB003.png|icon](/img/user/RESOURCE/ASSET/ICON/MB003.png) <b class="title">[[RESOURCE/MEMBER/MB003\|Mominus Hex]]</b> <sup class="title">MB003</sup>
+> Hello let me introduce my self<br>Call Me Mominus Hex<br>I like art🎨 I'm NSFW 🔞<br>and Negative Artist 🎨 <b><br><br>illustrator.thumbnail</b> <b><br><br>[Facebook](https://www.facebook.com/mominus.hex)</b>
+> <i class="small">aliases: Mimo, Kokonut — importance: 1 — status: active — association: internal — reviewed: 08/07/25</i>
+
+</div></div>
+
+
+## External
+
+Not yet.
